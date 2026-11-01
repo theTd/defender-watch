@@ -2,7 +2,6 @@
 /src-tauri/target/
 /src-tauri/gen/schemas/
 /dist/
-/.tools/
 /data/
 /tests/.tmp/
 *.log

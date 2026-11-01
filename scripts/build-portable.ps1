@@ -2,13 +2,6 @@ $ErrorActionPreference = 'Stop'
 $root = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '..'))
 Push-Location $root
 try {
-    $localCargo = Join-Path $root '.tools\cargo'
-    $localRustup = Join-Path $root '.tools\rustup'
-    if (-not $env:CARGO_HOME -and (Test-Path (Join-Path $localCargo 'bin\cargo.exe'))) {
-        $env:CARGO_HOME = $localCargo
-        $env:RUSTUP_HOME = $localRustup
-        $env:PATH = (Join-Path $localCargo 'bin') + ';' + $env:PATH
-    }
     if (-not (Get-Command cargo.exe -ErrorAction SilentlyContinue)) {
         throw 'cargo.exe was not found. Install the Rust MSVC toolchain first.'
     }
@@ -40,9 +33,9 @@ try {
         throw 'The Visual Studio C++ build tools (vcvars64.bat) were not found.'
     }
 
-    $envScript = Join-Path $root '.tools\dw-build-env.cmd'
-    $envOutput = Join-Path $root '.tools\dw-build-env.out'
-    New-Item -ItemType Directory -Force -Path (Split-Path $envScript) | Out-Null
+    $envName = 'dw-build-env-' + [Guid]::NewGuid().ToString('N')
+    $envScript = Join-Path ([IO.Path]::GetTempPath()) ($envName + '.cmd')
+    $envOutput = Join-Path ([IO.Path]::GetTempPath()) ($envName + '.out')
     $envLines = '@echo off' + [Environment]::NewLine + 'call "' + $vcvars + '" >nul' + [Environment]::NewLine + 'set'
     [IO.File]::WriteAllText($envScript, $envLines, [Text.UTF8Encoding]::new($false))
     try {
