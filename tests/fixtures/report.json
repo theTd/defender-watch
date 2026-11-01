@@ -1,0 +1,3303 @@
+{
+  "TopFiles": [
+    {
+      "Count": 10,
+      "TotalDuration": 22667896,
+      "MinDuration": 1930510,
+      "AverageDuration": 2266789,
+      "MaxDuration": 2638615,
+      "MedianDuration": 2278474,
+      "Path": "E:\\dir1\\dir2\\dir3\\dir4\\dir5\\dir6\\dir7\\dir8\\dir9\\file1.jsonl"
+    },
+    {
+      "Count": 20,
+      "TotalDuration": 12915269,
+      "MinDuration": 75887,
+      "AverageDuration": 645763,
+      "MaxDuration": 2251411,
+      "MedianDuration": 136182,
+      "Path": "C:\\Users\\user\\dir10\\dir11\\dir12\\dir13\\dir14\\file2.jsonl"
+    },
+    {
+      "Count": 10,
+      "TotalDuration": 8926191,
+      "MinDuration": 818780,
+      "AverageDuration": 892619,
+      "MaxDuration": 929981,
+      "MedianDuration": 895322,
+      "Path": "E:\\dir1\\dir2\\dir3\\dir4\\dir5\\dir6\\dir7\\dir8\\dir9\\file3.jsonl"
+    },
+    {
+      "Count": 749,
+      "TotalDuration": 6035152,
+      "MinDuration": 3938,
+      "AverageDuration": 8057,
+      "MaxDuration": 36899,
+      "MedianDuration": 7381,
+      "Path": "C:\\ProgramData\\dir15\\dir16\\file4.db"
+    },
+    {
+      "Count": 6,
+      "TotalDuration": 5604078,
+      "MinDuration": 136913,
+      "AverageDuration": 934013,
+      "MaxDuration": 1135139,
+      "MedianDuration": 1092336,
+      "Path": "E:\\dir1\\dir2\\dir3\\dir4\\dir5\\dir6\\dir7\\dir8\\dir9\\file5.jsonl"
+    },
+    {
+      "Count": 1780,
+      "TotalDuration": 2714857,
+      "MinDuration": 766,
+      "AverageDuration": 1525,
+      "MaxDuration": 41290,
+      "MedianDuration": 1113,
+      "Path": "C:\\ProgramData\\Microsoft\\Windows\\AppRepository\\Packages\\dir17\\file6.pckgdep"
+    },
+    {
+      "Count": 17,
+      "TotalDuration": 1688068,
+      "MinDuration": 74728,
+      "AverageDuration": 99298,
+      "MaxDuration": 135611,
+      "MedianDuration": 98997,
+      "Path": "C:\\Users\\user\\dir18\\dir11\\dir19\\dir20\\dir21\\dir22\\file7.jsonl"
+    },
+    {
+      "Count": 13,
+      "TotalDuration": 1635111,
+      "MinDuration": 76549,
+      "AverageDuration": 125777,
+      "MaxDuration": 204538,
+      "MedianDuration": 120557,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\PowerShell\\dir23"
+    },
+    {
+      "Count": 14,
+      "TotalDuration": 1481960,
+      "MinDuration": 74023,
+      "AverageDuration": 105854,
+      "MaxDuration": 147553,
+      "MedianDuration": 102486,
+      "Path": "E:\\dir1\\dir2\\dir3\\dir4\\dir5\\dir6\\dir24\\dir25\\dir9\\file8.jsonl"
+    },
+    {
+      "Count": 187,
+      "TotalDuration": 1277071,
+      "MinDuration": 3713,
+      "AverageDuration": 6829,
+      "MaxDuration": 36247,
+      "MedianDuration": 6031,
+      "Path": "C:\\Users\\user\\.config\\dir26\\file9.d\\file10.json"
+    },
+    {
+      "Count": 8,
+      "TotalDuration": 973778,
+      "MinDuration": 85343,
+      "AverageDuration": 121722,
+      "MaxDuration": 142271,
+      "MedianDuration": 125898,
+      "Path": "C:\\ProgramData\\dir27\\dir28\\dir29\\dir30\\file11.log"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 909370,
+      "MinDuration": 3944,
+      "AverageDuration": 7333,
+      "MaxDuration": 18966,
+      "MedianDuration": 6858,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\encodings\\__pycache__\\file12.pyc"
+    },
+    {
+      "Count": 8,
+      "TotalDuration": 852918,
+      "MinDuration": 80676,
+      "AverageDuration": 106614,
+      "MaxDuration": 126442,
+      "MedianDuration": 104871,
+      "Path": "C:\\Users\\user\\dir18\\dir11\\dir19\\dir20\\dir31\\file13.log"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 793540,
+      "MinDuration": 3517,
+      "AverageDuration": 6399,
+      "MaxDuration": 28065,
+      "MedianDuration": 5712,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\encodings\\__pycache__\\file14.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 774947,
+      "MinDuration": 3663,
+      "AverageDuration": 6249,
+      "MaxDuration": 30972,
+      "MedianDuration": 5654,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\__pycache__\\file15.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 762967,
+      "MinDuration": 3375,
+      "AverageDuration": 6152,
+      "MaxDuration": 65146,
+      "MedianDuration": 4810,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\__pycache__\\file16.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 761387,
+      "MinDuration": 3699,
+      "AverageDuration": 6140,
+      "MaxDuration": 14780,
+      "MedianDuration": 5779,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\encodings\\__pycache__\\file17.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 716858,
+      "MinDuration": 3422,
+      "AverageDuration": 5781,
+      "MaxDuration": 33524,
+      "MedianDuration": 5081,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__pycache__\\file18.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 715166,
+      "MinDuration": 3312,
+      "AverageDuration": 5767,
+      "MaxDuration": 25149,
+      "MedianDuration": 4849,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\__pycache__\\file19.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 702220,
+      "MinDuration": 3527,
+      "AverageDuration": 5663,
+      "MaxDuration": 17253,
+      "MedianDuration": 5136,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__pycache__\\file20.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 699402,
+      "MinDuration": 3434,
+      "AverageDuration": 5640,
+      "MaxDuration": 30421,
+      "MedianDuration": 4852,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__pycache__\\file21.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 697013,
+      "MinDuration": 3671,
+      "AverageDuration": 5621,
+      "MaxDuration": 19634,
+      "MedianDuration": 5053,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\dir32\\lib\\__pycache__\\file22.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 695566,
+      "MinDuration": 3319,
+      "AverageDuration": 5609,
+      "MaxDuration": 27541,
+      "MedianDuration": 4873,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__pycache__\\file23.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 688524,
+      "MinDuration": 3356,
+      "AverageDuration": 5552,
+      "MaxDuration": 11317,
+      "MedianDuration": 5171,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\encodings\\__pycache__\\file24.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 686869,
+      "MinDuration": 3397,
+      "AverageDuration": 5539,
+      "MaxDuration": 59220,
+      "MedianDuration": 4778,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__pycache__\\file25.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 686464,
+      "MinDuration": 3594,
+      "AverageDuration": 5536,
+      "MaxDuration": 25434,
+      "MedianDuration": 5024,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\__pycache__\\file12.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 684219,
+      "MinDuration": 3234,
+      "AverageDuration": 5517,
+      "MaxDuration": 26364,
+      "MedianDuration": 4790,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__pycache__\\file26.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 676067,
+      "MinDuration": 3261,
+      "AverageDuration": 5452,
+      "MaxDuration": 22961,
+      "MedianDuration": 4727,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__pycache__\\file27.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 673484,
+      "MinDuration": 3364,
+      "AverageDuration": 5431,
+      "MaxDuration": 21917,
+      "MedianDuration": 4849,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pathlib\\__pycache__\\file28.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 673351,
+      "MinDuration": 3527,
+      "AverageDuration": 5430,
+      "MaxDuration": 19013,
+      "MedianDuration": 5092,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\encodings\\__pycache__\\file29.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 672677,
+      "MinDuration": 3409,
+      "AverageDuration": 5424,
+      "MaxDuration": 19827,
+      "MedianDuration": 4837,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\collections\\__pycache__\\file12.pyc"
+    },
+    {
+      "Count": 6,
+      "TotalDuration": 671440,
+      "MinDuration": 85028,
+      "AverageDuration": 111906,
+      "MaxDuration": 140037,
+      "MedianDuration": 110440,
+      "Path": "E:\\dir1\\dir2\\dir3\\dir4\\dir5\\dir6\\dir24\\dir25\\dir9\\file30.jsonl"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 670562,
+      "MinDuration": 3285,
+      "AverageDuration": 5407,
+      "MaxDuration": 14387,
+      "MedianDuration": 4933,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\__pycache__\\file31.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 664979,
+      "MinDuration": 3302,
+      "AverageDuration": 5362,
+      "MaxDuration": 20987,
+      "MedianDuration": 4761,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__pycache__\\file32.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 663785,
+      "MinDuration": 3348,
+      "AverageDuration": 5353,
+      "MaxDuration": 17185,
+      "MedianDuration": 4817,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\__pycache__\\file33.pyc"
+    },
+    {
+      "Count": 82,
+      "TotalDuration": 657169,
+      "MinDuration": 3724,
+      "AverageDuration": 8014,
+      "MaxDuration": 39115,
+      "MedianDuration": 6521,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\__pycache__\\file12.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 646901,
+      "MinDuration": 3281,
+      "AverageDuration": 5216,
+      "MaxDuration": 41524,
+      "MedianDuration": 4741,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__pycache__\\file34.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 646509,
+      "MinDuration": 3374,
+      "AverageDuration": 5213,
+      "MaxDuration": 23169,
+      "MedianDuration": 4920,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__pycache__\\file35.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 640652,
+      "MinDuration": 3566,
+      "AverageDuration": 5166,
+      "MaxDuration": 18489,
+      "MedianDuration": 4956,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\dir33\\__pycache__\\file12.pyc"
+    },
+    {
+      "Count": 124,
+      "TotalDuration": 640583,
+      "MinDuration": 3356,
+      "AverageDuration": 5165,
+      "MaxDuration": 30428,
+      "MedianDuration": 4728,
+      "Path": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__pycache__\\file36.pyc"
+    }
+  ],
+  "TopPaths": [
+    {
+      "Count": 14790,
+      "TotalDuration": 129350798,
+      "MinDuration": 621,
+      "AverageDuration": 8745,
+      "MaxDuration": 2251411,
+      "MedianDuration": 4877,
+      "Path": "c:",
+      "Folder": [
+        {
+          "Count": 11834,
+          "TotalDuration": 110073718,
+          "MinDuration": 621,
+          "AverageDuration": 9301,
+          "MaxDuration": 2251411,
+          "MedianDuration": 4966,
+          "Path": "users",
+          "Folder": [
+            {
+              "Count": 11834,
+              "TotalDuration": 110073718,
+              "MinDuration": 621,
+              "AverageDuration": 9301,
+              "MaxDuration": 2251411,
+              "MedianDuration": 4966,
+              "Path": "user",
+              "Folder": [
+                {
+                  "Count": 11481,
+                  "TotalDuration": 90898029,
+                  "MinDuration": 621,
+                  "AverageDuration": 7917,
+                  "MaxDuration": 275207,
+                  "MedianDuration": 4937,
+                  "Path": "appdata"
+                },
+                {
+                  "Count": 20,
+                  "TotalDuration": 12915269,
+                  "MinDuration": 75887,
+                  "AverageDuration": 645763,
+                  "MaxDuration": 2251411,
+                  "MedianDuration": 136182,
+                  "Path": "dir10"
+                },
+                {
+                  "Count": 38,
+                  "TotalDuration": 3673710,
+                  "MinDuration": 55491,
+                  "AverageDuration": 96676,
+                  "MaxDuration": 135611,
+                  "MedianDuration": 97599,
+                  "Path": "dir18"
+                },
+                {
+                  "Count": 286,
+                  "TotalDuration": 1965233,
+                  "MinDuration": 3533,
+                  "AverageDuration": 6871,
+                  "MaxDuration": 36247,
+                  "MedianDuration": 6045,
+                  "Path": ".config"
+                },
+                {
+                  "Count": 8,
+                  "TotalDuration": 525207,
+                  "MinDuration": 57709,
+                  "AverageDuration": 65650,
+                  "MaxDuration": 80333,
+                  "MedianDuration": 64971,
+                  "Path": "documents"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 96270,
+                  "MinDuration": 96270,
+                  "AverageDuration": 96270,
+                  "MaxDuration": 96270,
+                  "MedianDuration": 96270,
+                  "Path": "dir34"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Count": 2559,
+          "TotalDuration": 9956283,
+          "MinDuration": 766,
+          "AverageDuration": 3890,
+          "MaxDuration": 142271,
+          "MedianDuration": 1343,
+          "Path": "programdata",
+          "Folder": [
+            {
+              "Count": 750,
+              "TotalDuration": 6043499,
+              "MinDuration": 3938,
+              "AverageDuration": 8057,
+              "MaxDuration": 36899,
+              "MedianDuration": 7390,
+              "Path": "dir15",
+              "Folder": [
+                {
+                  "Count": 750,
+                  "TotalDuration": 6043499,
+                  "MinDuration": 3938,
+                  "AverageDuration": 8057,
+                  "MaxDuration": 36899,
+                  "MedianDuration": 7390,
+                  "Path": "dir16"
+                }
+              ]
+            },
+            {
+              "Count": 1799,
+              "TotalDuration": 2755271,
+              "MinDuration": 766,
+              "AverageDuration": 1531,
+              "MaxDuration": 41290,
+              "MedianDuration": 1115,
+              "Path": "microsoft",
+              "Folder": [
+                {
+                  "Count": 1799,
+                  "TotalDuration": 2755271,
+                  "MinDuration": 766,
+                  "AverageDuration": 1531,
+                  "MaxDuration": 41290,
+                  "MedianDuration": 1115,
+                  "Path": "windows"
+                }
+              ]
+            },
+            {
+              "Count": 8,
+              "TotalDuration": 973778,
+              "MinDuration": 85343,
+              "AverageDuration": 121722,
+              "MaxDuration": 142271,
+              "MedianDuration": 125898,
+              "Path": "dir27",
+              "Folder": [
+                {
+                  "Count": 8,
+                  "TotalDuration": 973778,
+                  "MinDuration": 85343,
+                  "AverageDuration": 121722,
+                  "MaxDuration": 142271,
+                  "MedianDuration": 125898,
+                  "Path": "dir28"
+                }
+              ]
+            },
+            {
+              "Count": 2,
+              "TotalDuration": 183735,
+              "MinDuration": 71964,
+              "AverageDuration": 91867,
+              "MaxDuration": 111771,
+              "MedianDuration": 91867,
+              "Path": "dir35",
+              "Folder": [
+                {
+                  "Count": 2,
+                  "TotalDuration": 183735,
+                  "MinDuration": 71964,
+                  "AverageDuration": 91867,
+                  "MaxDuration": 111771,
+                  "MedianDuration": 91867,
+                  "Path": "dir36"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Count": 326,
+          "TotalDuration": 7994444,
+          "MinDuration": 896,
+          "AverageDuration": 24522,
+          "MaxDuration": 101964,
+          "MedianDuration": 8230,
+          "Path": "windows",
+          "Folder": [
+            {
+              "Count": 89,
+              "TotalDuration": 5609215,
+              "MinDuration": 13102,
+              "AverageDuration": 63024,
+              "MaxDuration": 101964,
+              "MedianDuration": 62131,
+              "Path": "inf",
+              "Folder": [
+                {
+                  "Count": 1,
+                  "TotalDuration": 101964,
+                  "MinDuration": 101964,
+                  "AverageDuration": 101964,
+                  "MaxDuration": 101964,
+                  "MedianDuration": 101964,
+                  "Path": "C:\\WINDOWS\\INF\\file37.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 95987,
+                  "MinDuration": 95987,
+                  "AverageDuration": 95987,
+                  "MaxDuration": 95987,
+                  "MedianDuration": 95987,
+                  "Path": "C:\\WINDOWS\\INF\\file38.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 91267,
+                  "MinDuration": 91267,
+                  "AverageDuration": 91267,
+                  "MaxDuration": 91267,
+                  "MedianDuration": 91267,
+                  "Path": "C:\\WINDOWS\\INF\\file39.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 88209,
+                  "MinDuration": 88209,
+                  "AverageDuration": 88209,
+                  "MaxDuration": 88209,
+                  "MedianDuration": 88209,
+                  "Path": "C:\\WINDOWS\\INF\\file40.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 85897,
+                  "MinDuration": 85897,
+                  "AverageDuration": 85897,
+                  "MaxDuration": 85897,
+                  "MedianDuration": 85897,
+                  "Path": "C:\\WINDOWS\\INF\\file41.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 85610,
+                  "MinDuration": 85610,
+                  "AverageDuration": 85610,
+                  "MaxDuration": 85610,
+                  "MedianDuration": 85610,
+                  "Path": "C:\\WINDOWS\\INF\\file42.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 84273,
+                  "MinDuration": 84273,
+                  "AverageDuration": 84273,
+                  "MaxDuration": 84273,
+                  "MedianDuration": 84273,
+                  "Path": "C:\\WINDOWS\\INF\\file43.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 84105,
+                  "MinDuration": 84105,
+                  "AverageDuration": 84105,
+                  "MaxDuration": 84105,
+                  "MedianDuration": 84105,
+                  "Path": "C:\\WINDOWS\\INF\\file44.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 83054,
+                  "MinDuration": 83054,
+                  "AverageDuration": 83054,
+                  "MaxDuration": 83054,
+                  "MedianDuration": 83054,
+                  "Path": "C:\\WINDOWS\\INF\\file45.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 82369,
+                  "MinDuration": 82369,
+                  "AverageDuration": 82369,
+                  "MaxDuration": 82369,
+                  "MedianDuration": 82369,
+                  "Path": "C:\\WINDOWS\\INF\\file46.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 80916,
+                  "MinDuration": 80916,
+                  "AverageDuration": 80916,
+                  "MaxDuration": 80916,
+                  "MedianDuration": 80916,
+                  "Path": "C:\\WINDOWS\\INF\\file47.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 80320,
+                  "MinDuration": 80320,
+                  "AverageDuration": 80320,
+                  "MaxDuration": 80320,
+                  "MedianDuration": 80320,
+                  "Path": "C:\\WINDOWS\\INF\\file48.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 79219,
+                  "MinDuration": 79219,
+                  "AverageDuration": 79219,
+                  "MaxDuration": 79219,
+                  "MedianDuration": 79219,
+                  "Path": "C:\\WINDOWS\\INF\\file49.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 77962,
+                  "MinDuration": 77962,
+                  "AverageDuration": 77962,
+                  "MaxDuration": 77962,
+                  "MedianDuration": 77962,
+                  "Path": "C:\\WINDOWS\\INF\\file50.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 76849,
+                  "MinDuration": 76849,
+                  "AverageDuration": 76849,
+                  "MaxDuration": 76849,
+                  "MedianDuration": 76849,
+                  "Path": "C:\\WINDOWS\\INF\\file51.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 75799,
+                  "MinDuration": 75799,
+                  "AverageDuration": 75799,
+                  "MaxDuration": 75799,
+                  "MedianDuration": 75799,
+                  "Path": "C:\\WINDOWS\\INF\\file52.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 74900,
+                  "MinDuration": 74900,
+                  "AverageDuration": 74900,
+                  "MaxDuration": 74900,
+                  "MedianDuration": 74900,
+                  "Path": "C:\\WINDOWS\\INF\\file53.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 72890,
+                  "MinDuration": 72890,
+                  "AverageDuration": 72890,
+                  "MaxDuration": 72890,
+                  "MedianDuration": 72890,
+                  "Path": "C:\\WINDOWS\\INF\\file54.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 71968,
+                  "MinDuration": 71968,
+                  "AverageDuration": 71968,
+                  "MaxDuration": 71968,
+                  "MedianDuration": 71968,
+                  "Path": "C:\\WINDOWS\\INF\\file55.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 70868,
+                  "MinDuration": 70868,
+                  "AverageDuration": 70868,
+                  "MaxDuration": 70868,
+                  "MedianDuration": 70868,
+                  "Path": "C:\\WINDOWS\\INF\\file56.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 70512,
+                  "MinDuration": 70512,
+                  "AverageDuration": 70512,
+                  "MaxDuration": 70512,
+                  "MedianDuration": 70512,
+                  "Path": "C:\\WINDOWS\\INF\\file57.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 69744,
+                  "MinDuration": 69744,
+                  "AverageDuration": 69744,
+                  "MaxDuration": 69744,
+                  "MedianDuration": 69744,
+                  "Path": "C:\\WINDOWS\\INF\\file58.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 69712,
+                  "MinDuration": 69712,
+                  "AverageDuration": 69712,
+                  "MaxDuration": 69712,
+                  "MedianDuration": 69712,
+                  "Path": "C:\\WINDOWS\\INF\\file59.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 69708,
+                  "MinDuration": 69708,
+                  "AverageDuration": 69708,
+                  "MaxDuration": 69708,
+                  "MedianDuration": 69708,
+                  "Path": "C:\\WINDOWS\\INF\\file60.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 69606,
+                  "MinDuration": 69606,
+                  "AverageDuration": 69606,
+                  "MaxDuration": 69606,
+                  "MedianDuration": 69606,
+                  "Path": "C:\\WINDOWS\\INF\\file61.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 68915,
+                  "MinDuration": 68915,
+                  "AverageDuration": 68915,
+                  "MaxDuration": 68915,
+                  "MedianDuration": 68915,
+                  "Path": "C:\\WINDOWS\\INF\\file62.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 68586,
+                  "MinDuration": 68586,
+                  "AverageDuration": 68586,
+                  "MaxDuration": 68586,
+                  "MedianDuration": 68586,
+                  "Path": "C:\\WINDOWS\\INF\\file63.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 68226,
+                  "MinDuration": 68226,
+                  "AverageDuration": 68226,
+                  "MaxDuration": 68226,
+                  "MedianDuration": 68226,
+                  "Path": "C:\\WINDOWS\\INF\\file64.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 68210,
+                  "MinDuration": 68210,
+                  "AverageDuration": 68210,
+                  "MaxDuration": 68210,
+                  "MedianDuration": 68210,
+                  "Path": "C:\\WINDOWS\\INF\\file65.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 66644,
+                  "MinDuration": 66644,
+                  "AverageDuration": 66644,
+                  "MaxDuration": 66644,
+                  "MedianDuration": 66644,
+                  "Path": "C:\\WINDOWS\\INF\\file66.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 66602,
+                  "MinDuration": 66602,
+                  "AverageDuration": 66602,
+                  "MaxDuration": 66602,
+                  "MedianDuration": 66602,
+                  "Path": "C:\\WINDOWS\\INF\\file67.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 65958,
+                  "MinDuration": 65958,
+                  "AverageDuration": 65958,
+                  "MaxDuration": 65958,
+                  "MedianDuration": 65958,
+                  "Path": "C:\\WINDOWS\\INF\\file68.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 65811,
+                  "MinDuration": 65811,
+                  "AverageDuration": 65811,
+                  "MaxDuration": 65811,
+                  "MedianDuration": 65811,
+                  "Path": "C:\\WINDOWS\\INF\\file69.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 65014,
+                  "MinDuration": 65014,
+                  "AverageDuration": 65014,
+                  "MaxDuration": 65014,
+                  "MedianDuration": 65014,
+                  "Path": "C:\\WINDOWS\\INF\\file70.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 64899,
+                  "MinDuration": 64899,
+                  "AverageDuration": 64899,
+                  "MaxDuration": 64899,
+                  "MedianDuration": 64899,
+                  "Path": "C:\\WINDOWS\\INF\\file71.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 64191,
+                  "MinDuration": 64191,
+                  "AverageDuration": 64191,
+                  "MaxDuration": 64191,
+                  "MedianDuration": 64191,
+                  "Path": "C:\\WINDOWS\\INF\\file72.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 64028,
+                  "MinDuration": 64028,
+                  "AverageDuration": 64028,
+                  "MaxDuration": 64028,
+                  "MedianDuration": 64028,
+                  "Path": "C:\\WINDOWS\\INF\\file73.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 63914,
+                  "MinDuration": 63914,
+                  "AverageDuration": 63914,
+                  "MaxDuration": 63914,
+                  "MedianDuration": 63914,
+                  "Path": "C:\\WINDOWS\\INF\\file74.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 63896,
+                  "MinDuration": 63896,
+                  "AverageDuration": 63896,
+                  "MaxDuration": 63896,
+                  "MedianDuration": 63896,
+                  "Path": "C:\\WINDOWS\\INF\\file75.PNF"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 63354,
+                  "MinDuration": 63354,
+                  "AverageDuration": 63354,
+                  "MaxDuration": 63354,
+                  "MedianDuration": 63354,
+                  "Path": "C:\\WINDOWS\\INF\\file76.PNF"
+                }
+              ]
+            },
+            {
+              "Count": 196,
+              "TotalDuration": 2104435,
+              "MinDuration": 896,
+              "AverageDuration": 10736,
+              "MaxDuration": 89808,
+              "MedianDuration": 6552,
+              "Path": "prefetch",
+              "Folder": [
+                {
+                  "Count": 25,
+                  "TotalDuration": 489483,
+                  "MinDuration": 5076,
+                  "AverageDuration": 19579,
+                  "MaxDuration": 73772,
+                  "MedianDuration": 11156,
+                  "Path": "C:\\WINDOWS\\Prefetch\\BASH.EXE-588D66F0.pf"
+                },
+                {
+                  "Count": 31,
+                  "TotalDuration": 440332,
+                  "MinDuration": 5097,
+                  "AverageDuration": 14204,
+                  "MaxDuration": 75313,
+                  "MedianDuration": 7393,
+                  "Path": "C:\\WINDOWS\\Prefetch\\CONHOST.EXE-C0FB3CEF.pf"
+                },
+                {
+                  "Count": 10,
+                  "TotalDuration": 111785,
+                  "MinDuration": 5760,
+                  "AverageDuration": 11178,
+                  "MaxDuration": 38723,
+                  "MedianDuration": 8384,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file77.pf"
+                },
+                {
+                  "Count": 4,
+                  "TotalDuration": 101233,
+                  "MinDuration": 5500,
+                  "AverageDuration": 25308,
+                  "MaxDuration": 71149,
+                  "MedianDuration": 12292,
+                  "Path": "C:\\WINDOWS\\Prefetch\\TASKLIST.EXE-B07F84DC.pf"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 89808,
+                  "MinDuration": 89808,
+                  "AverageDuration": 89808,
+                  "MaxDuration": 89808,
+                  "MedianDuration": 89808,
+                  "Path": "C:\\WINDOWS\\Prefetch\\CMD.EXE-111861F5.pf"
+                },
+                {
+                  "Count": 4,
+                  "TotalDuration": 83491,
+                  "MinDuration": 5624,
+                  "AverageDuration": 20872,
+                  "MaxDuration": 66055,
+                  "MedianDuration": 5906,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file78.pf"
+                },
+                {
+                  "Count": 7,
+                  "TotalDuration": 82471,
+                  "MinDuration": 5518,
+                  "AverageDuration": 11781,
+                  "MaxDuration": 42359,
+                  "MedianDuration": 7044,
+                  "Path": "C:\\WINDOWS\\Prefetch\\PYTHON.EXE-530AC756.pf"
+                },
+                {
+                  "Count": 8,
+                  "TotalDuration": 81805,
+                  "MinDuration": 3811,
+                  "AverageDuration": 10225,
+                  "MaxDuration": 22722,
+                  "MedianDuration": 7692,
+                  "Path": "C:\\WINDOWS\\Prefetch\\PWSH.EXE-42A812E1.pf"
+                },
+                {
+                  "Count": 4,
+                  "TotalDuration": 50697,
+                  "MinDuration": 4638,
+                  "AverageDuration": 12674,
+                  "MaxDuration": 27408,
+                  "MedianDuration": 9325,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file79.pf"
+                },
+                {
+                  "Count": 3,
+                  "TotalDuration": 44235,
+                  "MinDuration": 6049,
+                  "AverageDuration": 14745,
+                  "MaxDuration": 31674,
+                  "MedianDuration": 6512,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file80.pf"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 39628,
+                  "MinDuration": 13327,
+                  "AverageDuration": 19814,
+                  "MaxDuration": 26301,
+                  "MedianDuration": 19814,
+                  "Path": "C:\\Windows\\Prefetch\\file81.pf"
+                },
+                {
+                  "Count": 4,
+                  "TotalDuration": 35968,
+                  "MinDuration": 6643,
+                  "AverageDuration": 8992,
+                  "MaxDuration": 13905,
+                  "MedianDuration": 7710,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file82.pf"
+                },
+                {
+                  "Count": 5,
+                  "TotalDuration": 35614,
+                  "MinDuration": 6159,
+                  "AverageDuration": 7122,
+                  "MaxDuration": 8192,
+                  "MedianDuration": 7124,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file83.pf"
+                },
+                {
+                  "Count": 4,
+                  "TotalDuration": 28349,
+                  "MinDuration": 5134,
+                  "AverageDuration": 7087,
+                  "MaxDuration": 8715,
+                  "MedianDuration": 7250,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file84.pf"
+                },
+                {
+                  "Count": 3,
+                  "TotalDuration": 27418,
+                  "MinDuration": 6542,
+                  "AverageDuration": 9139,
+                  "MaxDuration": 12139,
+                  "MedianDuration": 8737,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file85.pf"
+                },
+                {
+                  "Count": 3,
+                  "TotalDuration": 24929,
+                  "MinDuration": 5958,
+                  "AverageDuration": 8309,
+                  "MaxDuration": 12547,
+                  "MedianDuration": 6424,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file86.pf"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 23633,
+                  "MinDuration": 5516,
+                  "AverageDuration": 11816,
+                  "MaxDuration": 18117,
+                  "MedianDuration": 11816,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file87.pf"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 21597,
+                  "MinDuration": 4830,
+                  "AverageDuration": 10798,
+                  "MaxDuration": 16767,
+                  "MedianDuration": 10798,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file88.pf"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 20702,
+                  "MinDuration": 5468,
+                  "AverageDuration": 10351,
+                  "MaxDuration": 15234,
+                  "MedianDuration": 10351,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file89.pf"
+                },
+                {
+                  "Count": 3,
+                  "TotalDuration": 20012,
+                  "MinDuration": 4512,
+                  "AverageDuration": 6670,
+                  "MaxDuration": 8173,
+                  "MedianDuration": 7327,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file81.pf"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 15666,
+                  "MinDuration": 7439,
+                  "AverageDuration": 7833,
+                  "MaxDuration": 8227,
+                  "MedianDuration": 7833,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file90.pf"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 15446,
+                  "MinDuration": 6810,
+                  "AverageDuration": 7723,
+                  "MaxDuration": 8636,
+                  "MedianDuration": 7723,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file91.pf"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 15025,
+                  "MinDuration": 7092,
+                  "AverageDuration": 7512,
+                  "MaxDuration": 7933,
+                  "MedianDuration": 7512,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file92.pf"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 14626,
+                  "MinDuration": 5260,
+                  "AverageDuration": 7313,
+                  "MaxDuration": 9366,
+                  "MedianDuration": 7313,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file93.pf"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 13585,
+                  "MinDuration": 13585,
+                  "AverageDuration": 13585,
+                  "MaxDuration": 13585,
+                  "MedianDuration": 13585,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file94.pf"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 13067,
+                  "MinDuration": 13067,
+                  "AverageDuration": 13067,
+                  "MaxDuration": 13067,
+                  "MedianDuration": 13067,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file95.pf"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 12834,
+                  "MinDuration": 5190,
+                  "AverageDuration": 6417,
+                  "MaxDuration": 7644,
+                  "MedianDuration": 6417,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file96.pf"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 10168,
+                  "MinDuration": 10168,
+                  "AverageDuration": 10168,
+                  "MaxDuration": 10168,
+                  "MedianDuration": 10168,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file97.pf"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 7796,
+                  "MinDuration": 7796,
+                  "AverageDuration": 7796,
+                  "MaxDuration": 7796,
+                  "MedianDuration": 7796,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file98.pf"
+                },
+                {
+                  "Count": 4,
+                  "TotalDuration": 7723,
+                  "MinDuration": 1538,
+                  "AverageDuration": 1930,
+                  "MaxDuration": 2202,
+                  "MedianDuration": 1991,
+                  "Path": "C:\\Windows\\Prefetch\\file87.pf"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 7273,
+                  "MinDuration": 7273,
+                  "AverageDuration": 7273,
+                  "MaxDuration": 7273,
+                  "MedianDuration": 7273,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file99.pf"
+                },
+                {
+                  "Count": 4,
+                  "TotalDuration": 6400,
+                  "MinDuration": 1068,
+                  "AverageDuration": 1600,
+                  "MaxDuration": 2511,
+                  "MedianDuration": 1410,
+                  "Path": "C:\\Windows\\Prefetch\\file100.pf"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 6370,
+                  "MinDuration": 2159,
+                  "AverageDuration": 3185,
+                  "MaxDuration": 4211,
+                  "MedianDuration": 3185,
+                  "Path": "C:\\Windows\\Prefetch\\file94.pf"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 6295,
+                  "MinDuration": 6295,
+                  "AverageDuration": 6295,
+                  "MaxDuration": 6295,
+                  "MedianDuration": 6295,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file101.pf"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 6262,
+                  "MinDuration": 6262,
+                  "AverageDuration": 6262,
+                  "MaxDuration": 6262,
+                  "MedianDuration": 6262,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file102.pf"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 6217,
+                  "MinDuration": 6217,
+                  "AverageDuration": 6217,
+                  "MaxDuration": 6217,
+                  "MedianDuration": 6217,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file103.pf"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 5375,
+                  "MinDuration": 5375,
+                  "AverageDuration": 5375,
+                  "MaxDuration": 5375,
+                  "MedianDuration": 5375,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file104.pf"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 5358,
+                  "MinDuration": 2146,
+                  "AverageDuration": 2679,
+                  "MaxDuration": 3212,
+                  "MedianDuration": 2679,
+                  "Path": "C:\\Windows\\Prefetch\\file104.pf"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 4861,
+                  "MinDuration": 1319,
+                  "AverageDuration": 2430,
+                  "MaxDuration": 3542,
+                  "MedianDuration": 2430,
+                  "Path": "C:\\Windows\\Prefetch\\file105.pf"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 4537,
+                  "MinDuration": 4537,
+                  "AverageDuration": 4537,
+                  "MaxDuration": 4537,
+                  "MedianDuration": 4537,
+                  "Path": "C:\\WINDOWS\\Prefetch\\file106.pf"
+                }
+              ]
+            },
+            {
+              "Count": 41,
+              "TotalDuration": 280794,
+              "MinDuration": 1180,
+              "AverageDuration": 6848,
+              "MaxDuration": 36015,
+              "MedianDuration": 3246,
+              "Path": "system32",
+              "Folder": [
+                {
+                  "Count": 21,
+                  "TotalDuration": 237489,
+                  "MinDuration": 1334,
+                  "AverageDuration": 11309,
+                  "MaxDuration": 36015,
+                  "MedianDuration": 8972,
+                  "Path": "sru"
+                },
+                {
+                  "Count": 15,
+                  "TotalDuration": 34497,
+                  "MinDuration": 1343,
+                  "AverageDuration": 2299,
+                  "MaxDuration": 3614,
+                  "MedianDuration": 2069,
+                  "Path": "windowspowershell"
+                },
+                {
+                  "Count": 5,
+                  "TotalDuration": 8808,
+                  "MinDuration": 1180,
+                  "AverageDuration": 1761,
+                  "MaxDuration": 2974,
+                  "MedianDuration": 1587,
+                  "Path": "dir5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Count": 14,
+          "TotalDuration": 709348,
+          "MinDuration": 7960,
+          "AverageDuration": 50667,
+          "MaxDuration": 104658,
+          "MedianDuration": 64338,
+          "Path": "dir37",
+          "Folder": [
+            {
+              "Count": 14,
+              "TotalDuration": 709348,
+              "MinDuration": 7960,
+              "AverageDuration": 50667,
+              "MaxDuration": 104658,
+              "MedianDuration": 64338,
+              "Path": "dir38",
+              "Folder": [
+                {
+                  "Count": 14,
+                  "TotalDuration": 709348,
+                  "MinDuration": 7960,
+                  "AverageDuration": 50667,
+                  "MaxDuration": 104658,
+                  "MedianDuration": 64338,
+                  "Path": "appdata"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Count": 39,
+          "TotalDuration": 384867,
+          "MinDuration": 4496,
+          "AverageDuration": 9868,
+          "MaxDuration": 75498,
+          "MedianDuration": 6993,
+          "Path": "python27",
+          "Folder": [
+            {
+              "Count": 39,
+              "TotalDuration": 384867,
+              "MinDuration": 4496,
+              "AverageDuration": 9868,
+              "MaxDuration": 75498,
+              "MedianDuration": 6993,
+              "Path": "lib",
+              "Folder": [
+                {
+                  "Count": 6,
+                  "TotalDuration": 138664,
+                  "MinDuration": 5096,
+                  "AverageDuration": 23110,
+                  "MaxDuration": 75498,
+                  "MedianDuration": 13503,
+                  "Path": "encodings"
+                },
+                {
+                  "Count": 4,
+                  "TotalDuration": 37292,
+                  "MinDuration": 5688,
+                  "AverageDuration": 9323,
+                  "MaxDuration": 15588,
+                  "MedianDuration": 8008,
+                  "Path": "dir39"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 13653,
+                  "MinDuration": 13653,
+                  "AverageDuration": 13653,
+                  "MaxDuration": 13653,
+                  "MedianDuration": 13653,
+                  "Path": "C:\\Python27\\lib\\file107.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 9987,
+                  "MinDuration": 9987,
+                  "AverageDuration": 9987,
+                  "MaxDuration": 9987,
+                  "MedianDuration": 9987,
+                  "Path": "C:\\Python27\\lib\\file108.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 9768,
+                  "MinDuration": 9768,
+                  "AverageDuration": 9768,
+                  "MaxDuration": 9768,
+                  "MedianDuration": 9768,
+                  "Path": "C:\\Python27\\lib\\file109.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 9600,
+                  "MinDuration": 9600,
+                  "AverageDuration": 9600,
+                  "MaxDuration": 9600,
+                  "MedianDuration": 9600,
+                  "Path": "C:\\Python27\\lib\\file110.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 8809,
+                  "MinDuration": 8809,
+                  "AverageDuration": 8809,
+                  "MaxDuration": 8809,
+                  "MedianDuration": 8809,
+                  "Path": "C:\\Python27\\lib\\file111.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 8686,
+                  "MinDuration": 8686,
+                  "AverageDuration": 8686,
+                  "MaxDuration": 8686,
+                  "MedianDuration": 8686,
+                  "Path": "C:\\Python27\\lib\\file112.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 8648,
+                  "MinDuration": 8648,
+                  "AverageDuration": 8648,
+                  "MaxDuration": 8648,
+                  "MedianDuration": 8648,
+                  "Path": "C:\\Python27\\lib\\file113.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 8246,
+                  "MinDuration": 8246,
+                  "AverageDuration": 8246,
+                  "MaxDuration": 8246,
+                  "MedianDuration": 8246,
+                  "Path": "C:\\Python27\\lib\\file114.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 8003,
+                  "MinDuration": 8003,
+                  "AverageDuration": 8003,
+                  "MaxDuration": 8003,
+                  "MedianDuration": 8003,
+                  "Path": "C:\\Python27\\lib\\file115.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 7549,
+                  "MinDuration": 7549,
+                  "AverageDuration": 7549,
+                  "MaxDuration": 7549,
+                  "MedianDuration": 7549,
+                  "Path": "C:\\Python27\\lib\\file116.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 7543,
+                  "MinDuration": 7543,
+                  "AverageDuration": 7543,
+                  "MaxDuration": 7543,
+                  "MedianDuration": 7543,
+                  "Path": "C:\\Python27\\lib\\file117.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 7069,
+                  "MinDuration": 7069,
+                  "AverageDuration": 7069,
+                  "MaxDuration": 7069,
+                  "MedianDuration": 7069,
+                  "Path": "C:\\Python27\\lib\\file118.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 7057,
+                  "MinDuration": 7057,
+                  "AverageDuration": 7057,
+                  "MaxDuration": 7057,
+                  "MedianDuration": 7057,
+                  "Path": "C:\\Python27\\lib\\file119.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 6931,
+                  "MinDuration": 6931,
+                  "AverageDuration": 6931,
+                  "MaxDuration": 6931,
+                  "MedianDuration": 6931,
+                  "Path": "C:\\Python27\\lib\\file120.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 6546,
+                  "MinDuration": 6546,
+                  "AverageDuration": 6546,
+                  "MaxDuration": 6546,
+                  "MedianDuration": 6546,
+                  "Path": "C:\\Python27\\lib\\file121.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 6525,
+                  "MinDuration": 6525,
+                  "AverageDuration": 6525,
+                  "MaxDuration": 6525,
+                  "MedianDuration": 6525,
+                  "Path": "C:\\Python27\\lib\\file122.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 6497,
+                  "MinDuration": 6497,
+                  "AverageDuration": 6497,
+                  "MaxDuration": 6497,
+                  "MedianDuration": 6497,
+                  "Path": "C:\\Python27\\lib\\file123.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 6315,
+                  "MinDuration": 6315,
+                  "AverageDuration": 6315,
+                  "MaxDuration": 6315,
+                  "MedianDuration": 6315,
+                  "Path": "C:\\Python27\\lib\\file124.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 6177,
+                  "MinDuration": 6177,
+                  "AverageDuration": 6177,
+                  "MaxDuration": 6177,
+                  "MedianDuration": 6177,
+                  "Path": "C:\\Python27\\lib\\file125.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 6092,
+                  "MinDuration": 6092,
+                  "AverageDuration": 6092,
+                  "MaxDuration": 6092,
+                  "MedianDuration": 6092,
+                  "Path": "C:\\Python27\\lib\\file126.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 6070,
+                  "MinDuration": 6070,
+                  "AverageDuration": 6070,
+                  "MaxDuration": 6070,
+                  "MedianDuration": 6070,
+                  "Path": "C:\\Python27\\lib\\file127.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 5876,
+                  "MinDuration": 5876,
+                  "AverageDuration": 5876,
+                  "MaxDuration": 5876,
+                  "MedianDuration": 5876,
+                  "Path": "C:\\Python27\\lib\\file128.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 5832,
+                  "MinDuration": 5832,
+                  "AverageDuration": 5832,
+                  "MaxDuration": 5832,
+                  "MedianDuration": 5832,
+                  "Path": "C:\\Python27\\lib\\file129.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 5762,
+                  "MinDuration": 5762,
+                  "AverageDuration": 5762,
+                  "MaxDuration": 5762,
+                  "MedianDuration": 5762,
+                  "Path": "C:\\Python27\\lib\\file130.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 5653,
+                  "MinDuration": 5653,
+                  "AverageDuration": 5653,
+                  "MaxDuration": 5653,
+                  "MedianDuration": 5653,
+                  "Path": "C:\\Python27\\lib\\file131.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 5428,
+                  "MinDuration": 5428,
+                  "AverageDuration": 5428,
+                  "MaxDuration": 5428,
+                  "MedianDuration": 5428,
+                  "Path": "C:\\Python27\\lib\\file132.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 5272,
+                  "MinDuration": 5272,
+                  "AverageDuration": 5272,
+                  "MaxDuration": 5272,
+                  "MedianDuration": 5272,
+                  "Path": "C:\\Python27\\lib\\file133.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 4821,
+                  "MinDuration": 4821,
+                  "AverageDuration": 4821,
+                  "MaxDuration": 4821,
+                  "MedianDuration": 4821,
+                  "Path": "C:\\Python27\\lib\\file134.pyc"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 4496,
+                  "MinDuration": 4496,
+                  "AverageDuration": 4496,
+                  "MaxDuration": 4496,
+                  "MedianDuration": 4496,
+                  "Path": "C:\\Python27\\lib\\file135.pyc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Count": 18,
+          "TotalDuration": 232138,
+          "MinDuration": 1390,
+          "AverageDuration": 12896,
+          "MaxDuration": 104127,
+          "MedianDuration": 2790,
+          "Path": "program files",
+          "Folder": [
+            {
+              "Count": 14,
+              "TotalDuration": 221284,
+              "MinDuration": 1390,
+              "AverageDuration": 15806,
+              "MaxDuration": 104127,
+              "MedianDuration": 2905,
+              "Path": "dir40",
+              "Folder": [
+                {
+                  "Count": 14,
+                  "TotalDuration": 221284,
+                  "MinDuration": 1390,
+                  "AverageDuration": 15806,
+                  "MaxDuration": 104127,
+                  "MedianDuration": 2905,
+                  "Path": "dir41"
+                }
+              ]
+            },
+            {
+              "Count": 4,
+              "TotalDuration": 10854,
+              "MinDuration": 2242,
+              "AverageDuration": 2713,
+              "MaxDuration": 3031,
+              "MedianDuration": 2790,
+              "Path": "powershell",
+              "Folder": [
+                {
+                  "Count": 4,
+                  "TotalDuration": 10854,
+                  "MinDuration": 2242,
+                  "AverageDuration": 2713,
+                  "MaxDuration": 3031,
+                  "MedianDuration": 2790,
+                  "Path": "7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Count": 782,
+      "TotalDuration": 46407943,
+      "MinDuration": 614,
+      "AverageDuration": 59345,
+      "MaxDuration": 2638615,
+      "MedianDuration": 4667,
+      "Path": "e:",
+      "Folder": [
+        {
+          "Count": 89,
+          "TotalDuration": 42505127,
+          "MinDuration": 1841,
+          "AverageDuration": 477585,
+          "MaxDuration": 2638615,
+          "MedianDuration": 107605,
+          "Path": "dir1",
+          "Folder": [
+            {
+              "Count": 81,
+              "TotalDuration": 41664201,
+              "MinDuration": 1841,
+              "AverageDuration": 514372,
+              "MaxDuration": 2638615,
+              "MedianDuration": 107644,
+              "Path": "dir2",
+              "Folder": [
+                {
+                  "Count": 81,
+                  "TotalDuration": 41664201,
+                  "MinDuration": 1841,
+                  "AverageDuration": 514372,
+                  "MaxDuration": 2638615,
+                  "MedianDuration": 107644,
+                  "Path": "dir3"
+                }
+              ]
+            },
+            {
+              "Count": 1,
+              "TotalDuration": 218065,
+              "MinDuration": 218065,
+              "AverageDuration": 218065,
+              "MaxDuration": 218065,
+              "MedianDuration": 218065,
+              "Path": "E:\\dir1\\dir42"
+            },
+            {
+              "Count": 1,
+              "TotalDuration": 150879,
+              "MinDuration": 150879,
+              "AverageDuration": 150879,
+              "MaxDuration": 150879,
+              "MedianDuration": 150879,
+              "Path": "E:\\dir1\\dir43"
+            },
+            {
+              "Count": 1,
+              "TotalDuration": 147906,
+              "MinDuration": 147906,
+              "AverageDuration": 147906,
+              "MaxDuration": 147906,
+              "MedianDuration": 147906,
+              "Path": "E:\\dir1\\dir44"
+            },
+            {
+              "Count": 1,
+              "TotalDuration": 104710,
+              "MinDuration": 104710,
+              "AverageDuration": 104710,
+              "MaxDuration": 104710,
+              "MedianDuration": 104710,
+              "Path": "E:\\dir1\\dir45"
+            },
+            {
+              "Count": 1,
+              "TotalDuration": 73905,
+              "MinDuration": 73905,
+              "AverageDuration": 73905,
+              "MaxDuration": 73905,
+              "MedianDuration": 73905,
+              "Path": "E:\\dir1\\dir46"
+            },
+            {
+              "Count": 1,
+              "TotalDuration": 70273,
+              "MinDuration": 70273,
+              "AverageDuration": 70273,
+              "MaxDuration": 70273,
+              "MedianDuration": 70273,
+              "Path": "E:\\dir1\\dir47"
+            },
+            {
+              "Count": 1,
+              "TotalDuration": 61418,
+              "MinDuration": 61418,
+              "AverageDuration": 61418,
+              "MaxDuration": 61418,
+              "MedianDuration": 61418,
+              "Path": "E:\\dir1\\dir48"
+            },
+            {
+              "Count": 1,
+              "TotalDuration": 13770,
+              "MinDuration": 13770,
+              "AverageDuration": 13770,
+              "MaxDuration": 13770,
+              "MedianDuration": 13770,
+              "Path": "E:\\dir1\\dir49"
+            }
+          ]
+        },
+        {
+          "Count": 204,
+          "TotalDuration": 1386362,
+          "MinDuration": 3478,
+          "AverageDuration": 6795,
+          "MaxDuration": 32702,
+          "MedianDuration": 5953,
+          "Path": "dir50",
+          "Folder": [
+            {
+              "Count": 204,
+              "TotalDuration": 1386362,
+              "MinDuration": 3478,
+              "AverageDuration": 6795,
+              "MaxDuration": 32702,
+              "MedianDuration": 5953,
+              "Path": "dir51",
+              "Folder": [
+                {
+                  "Count": 204,
+                  "TotalDuration": 1386362,
+                  "MinDuration": 3478,
+                  "AverageDuration": 6795,
+                  "MaxDuration": 32702,
+                  "MedianDuration": 5953,
+                  "Path": "dir52"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Count": 18,
+          "TotalDuration": 1192677,
+          "MinDuration": 9067,
+          "AverageDuration": 66259,
+          "MaxDuration": 116328,
+          "MedianDuration": 85708,
+          "Path": "dir53",
+          "Folder": [
+            {
+              "Count": 18,
+              "TotalDuration": 1192677,
+              "MinDuration": 9067,
+              "AverageDuration": 66259,
+              "MaxDuration": 116328,
+              "MedianDuration": 85708,
+              "Path": "dir21",
+              "Folder": [
+                {
+                  "Count": 14,
+                  "TotalDuration": 955268,
+                  "MinDuration": 9067,
+                  "AverageDuration": 68233,
+                  "MaxDuration": 99066,
+                  "MedianDuration": 85708,
+                  "Path": "dir54"
+                },
+                {
+                  "Count": 4,
+                  "TotalDuration": 237409,
+                  "MinDuration": 12063,
+                  "AverageDuration": 59352,
+                  "MaxDuration": 116328,
+                  "MedianDuration": 54509,
+                  "Path": "dir55"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Count": 119,
+          "TotalDuration": 812447,
+          "MinDuration": 4018,
+          "AverageDuration": 6827,
+          "MaxDuration": 43269,
+          "MedianDuration": 6040,
+          "Path": "dir56",
+          "Folder": [
+            {
+              "Count": 71,
+              "TotalDuration": 508993,
+              "MinDuration": 4185,
+              "AverageDuration": 7168,
+              "MaxDuration": 43269,
+              "MedianDuration": 6162,
+              "Path": "dir11",
+              "Folder": [
+                {
+                  "Count": 14,
+                  "TotalDuration": 124847,
+                  "MinDuration": 4610,
+                  "AverageDuration": 8917,
+                  "MaxDuration": 43269,
+                  "MedianDuration": 6403,
+                  "Path": "dir57"
+                },
+                {
+                  "Count": 17,
+                  "TotalDuration": 119262,
+                  "MinDuration": 4374,
+                  "AverageDuration": 7015,
+                  "MaxDuration": 13680,
+                  "MedianDuration": 6259,
+                  "Path": "dir58"
+                },
+                {
+                  "Count": 11,
+                  "TotalDuration": 80473,
+                  "MinDuration": 4185,
+                  "AverageDuration": 7315,
+                  "MaxDuration": 12686,
+                  "MedianDuration": 7096,
+                  "Path": "dir59"
+                },
+                {
+                  "Count": 11,
+                  "TotalDuration": 66712,
+                  "MinDuration": 4622,
+                  "AverageDuration": 6064,
+                  "MaxDuration": 8053,
+                  "MedianDuration": 6098,
+                  "Path": "dir60"
+                },
+                {
+                  "Count": 11,
+                  "TotalDuration": 64460,
+                  "MinDuration": 5243,
+                  "AverageDuration": 5860,
+                  "MaxDuration": 6711,
+                  "MedianDuration": 5789,
+                  "Path": "dir61"
+                },
+                {
+                  "Count": 3,
+                  "TotalDuration": 29229,
+                  "MinDuration": 5629,
+                  "AverageDuration": 9743,
+                  "MaxDuration": 17123,
+                  "MedianDuration": 6477,
+                  "Path": "dir62"
+                },
+                {
+                  "Count": 4,
+                  "TotalDuration": 24010,
+                  "MinDuration": 4429,
+                  "AverageDuration": 6002,
+                  "MaxDuration": 7339,
+                  "MedianDuration": 6121,
+                  "Path": "dir63"
+                }
+              ]
+            },
+            {
+              "Count": 21,
+              "TotalDuration": 148873,
+              "MinDuration": 4018,
+              "AverageDuration": 7089,
+              "MaxDuration": 15632,
+              "MedianDuration": 6766,
+              "Path": "dir64",
+              "Folder": [
+                {
+                  "Count": 21,
+                  "TotalDuration": 148873,
+                  "MinDuration": 4018,
+                  "AverageDuration": 7089,
+                  "MaxDuration": 15632,
+                  "MedianDuration": 6766,
+                  "Path": "dir65"
+                }
+              ]
+            },
+            {
+              "Count": 17,
+              "TotalDuration": 94561,
+              "MinDuration": 4511,
+              "AverageDuration": 5562,
+              "MaxDuration": 8574,
+              "MedianDuration": 5248,
+              "Path": "dir66",
+              "Folder": [
+                {
+                  "Count": 17,
+                  "TotalDuration": 94561,
+                  "MinDuration": 4511,
+                  "AverageDuration": 5562,
+                  "MaxDuration": 8574,
+                  "MedianDuration": 5248,
+                  "Path": "dir67"
+                }
+              ]
+            },
+            {
+              "Count": 6,
+              "TotalDuration": 36018,
+              "MinDuration": 5015,
+              "AverageDuration": 6003,
+              "MaxDuration": 8831,
+              "MedianDuration": 5520,
+              "Path": "E:\\dir56\\file136.json"
+            },
+            {
+              "Count": 2,
+              "TotalDuration": 13768,
+              "MinDuration": 5072,
+              "AverageDuration": 6884,
+              "MaxDuration": 8696,
+              "MedianDuration": 6884,
+              "Path": "dir68",
+              "Folder": [
+                {
+                  "Count": 2,
+                  "TotalDuration": 13768,
+                  "MinDuration": 5072,
+                  "AverageDuration": 6884,
+                  "MaxDuration": 8696,
+                  "MedianDuration": 6884,
+                  "Path": "dir66"
+                }
+              ]
+            },
+            {
+              "Count": 1,
+              "TotalDuration": 5951,
+              "MinDuration": 5951,
+              "AverageDuration": 5951,
+              "MaxDuration": 5951,
+              "MedianDuration": 5951,
+              "Path": "E:\\dir56\\file137.json"
+            },
+            {
+              "Count": 1,
+              "TotalDuration": 4283,
+              "MinDuration": 4283,
+              "AverageDuration": 4283,
+              "MaxDuration": 4283,
+              "MedianDuration": 4283,
+              "Path": "E:\\dir56\\dir69"
+            }
+          ]
+        },
+        {
+          "Count": 336,
+          "TotalDuration": 392534,
+          "MinDuration": 614,
+          "AverageDuration": 1168,
+          "MaxDuration": 10075,
+          "MedianDuration": 914,
+          "Path": "dir70",
+          "Folder": [
+            {
+              "Count": 85,
+              "TotalDuration": 103073,
+              "MinDuration": 626,
+              "AverageDuration": 1212,
+              "MaxDuration": 10075,
+              "MedianDuration": 924,
+              "Path": "dir71",
+              "Folder": [
+                {
+                  "Count": 74,
+                  "TotalDuration": 87803,
+                  "MinDuration": 626,
+                  "AverageDuration": 1186,
+                  "MaxDuration": 10075,
+                  "MedianDuration": 916,
+                  "Path": "dir72"
+                },
+                {
+                  "Count": 11,
+                  "TotalDuration": 15270,
+                  "MinDuration": 785,
+                  "AverageDuration": 1388,
+                  "MaxDuration": 3011,
+                  "MedianDuration": 1078,
+                  "Path": "dir73"
+                }
+              ]
+            },
+            {
+              "Count": 81,
+              "TotalDuration": 95189,
+              "MinDuration": 638,
+              "AverageDuration": 1175,
+              "MaxDuration": 3633,
+              "MedianDuration": 1026,
+              "Path": "dir74",
+              "Folder": [
+                {
+                  "Count": 72,
+                  "TotalDuration": 78528,
+                  "MinDuration": 638,
+                  "AverageDuration": 1090,
+                  "MaxDuration": 3300,
+                  "MedianDuration": 942,
+                  "Path": "dir75"
+                },
+                {
+                  "Count": 7,
+                  "TotalDuration": 11421,
+                  "MinDuration": 1360,
+                  "AverageDuration": 1631,
+                  "MaxDuration": 1961,
+                  "MedianDuration": 1541,
+                  "Path": "dir76"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 5240,
+                  "MinDuration": 1607,
+                  "AverageDuration": 2620,
+                  "MaxDuration": 3633,
+                  "MedianDuration": 2620,
+                  "Path": "dir77"
+                }
+              ]
+            },
+            {
+              "Count": 39,
+              "TotalDuration": 45088,
+              "MinDuration": 615,
+              "AverageDuration": 1156,
+              "MaxDuration": 9554,
+              "MedianDuration": 851,
+              "Path": "dir78",
+              "Folder": [
+                {
+                  "Count": 39,
+                  "TotalDuration": 45088,
+                  "MinDuration": 615,
+                  "AverageDuration": 1156,
+                  "MaxDuration": 9554,
+                  "MedianDuration": 851,
+                  "Path": "dir79"
+                }
+              ]
+            },
+            {
+              "Count": 38,
+              "TotalDuration": 38226,
+              "MinDuration": 677,
+              "AverageDuration": 1005,
+              "MaxDuration": 2522,
+              "MedianDuration": 896,
+              "Path": "dir80",
+              "Folder": [
+                {
+                  "Count": 38,
+                  "TotalDuration": 38226,
+                  "MinDuration": 677,
+                  "AverageDuration": 1005,
+                  "MaxDuration": 2522,
+                  "MedianDuration": 896,
+                  "Path": "dir81"
+                }
+              ]
+            },
+            {
+              "Count": 20,
+              "TotalDuration": 36271,
+              "MinDuration": 678,
+              "AverageDuration": 1813,
+              "MaxDuration": 5498,
+              "MedianDuration": 1541,
+              "Path": "dir82",
+              "Folder": [
+                {
+                  "Count": 18,
+                  "TotalDuration": 32825,
+                  "MinDuration": 678,
+                  "AverageDuration": 1823,
+                  "MaxDuration": 5498,
+                  "MedianDuration": 1541,
+                  "Path": "dir83"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 2544,
+                  "MinDuration": 2544,
+                  "AverageDuration": 2544,
+                  "MaxDuration": 2544,
+                  "MedianDuration": 2544,
+                  "Path": "dir84"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 902,
+                  "MinDuration": 902,
+                  "AverageDuration": 902,
+                  "MaxDuration": 902,
+                  "MedianDuration": 902,
+                  "Path": "dir85"
+                }
+              ]
+            },
+            {
+              "Count": 39,
+              "TotalDuration": 35509,
+              "MinDuration": 614,
+              "AverageDuration": 910,
+              "MaxDuration": 3851,
+              "MedianDuration": 810,
+              "Path": "dir86",
+              "Folder": [
+                {
+                  "Count": 39,
+                  "TotalDuration": 35509,
+                  "MinDuration": 614,
+                  "AverageDuration": 910,
+                  "MaxDuration": 3851,
+                  "MedianDuration": 810,
+                  "Path": "dir87"
+                }
+              ]
+            },
+            {
+              "Count": 12,
+              "TotalDuration": 12133,
+              "MinDuration": 740,
+              "AverageDuration": 1011,
+              "MaxDuration": 1781,
+              "MedianDuration": 858,
+              "Path": "dir88",
+              "Folder": [
+                {
+                  "Count": 6,
+                  "TotalDuration": 6071,
+                  "MinDuration": 782,
+                  "AverageDuration": 1011,
+                  "MaxDuration": 1535,
+                  "MedianDuration": 898,
+                  "Path": "E:\\dir70\\dir88\\file138.md"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 1781,
+                  "MinDuration": 1781,
+                  "AverageDuration": 1781,
+                  "MaxDuration": 1781,
+                  "MedianDuration": 1781,
+                  "Path": "file139.tmpdir"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 1115,
+                  "MinDuration": 1115,
+                  "AverageDuration": 1115,
+                  "MaxDuration": 1115,
+                  "MedianDuration": 1115,
+                  "Path": "file140.tmpdir"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 842,
+                  "MinDuration": 842,
+                  "AverageDuration": 842,
+                  "MaxDuration": 842,
+                  "MedianDuration": 842,
+                  "Path": "file141.tmpdir"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 834,
+                  "MinDuration": 834,
+                  "AverageDuration": 834,
+                  "MaxDuration": 834,
+                  "MedianDuration": 834,
+                  "Path": "file142.tmpdir"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 750,
+                  "MinDuration": 750,
+                  "AverageDuration": 750,
+                  "MaxDuration": 750,
+                  "MedianDuration": 750,
+                  "Path": "file143.tmpdir"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 740,
+                  "MinDuration": 740,
+                  "AverageDuration": 740,
+                  "MaxDuration": 740,
+                  "MedianDuration": 740,
+                  "Path": "file144.tmpdir"
+                }
+              ]
+            },
+            {
+              "Count": 6,
+              "TotalDuration": 7765,
+              "MinDuration": 822,
+              "AverageDuration": 1294,
+              "MaxDuration": 2103,
+              "MedianDuration": 1265,
+              "Path": "dir89",
+              "Folder": [
+                {
+                  "Count": 4,
+                  "TotalDuration": 5235,
+                  "MinDuration": 822,
+                  "AverageDuration": 1308,
+                  "MaxDuration": 2103,
+                  "MedianDuration": 1155,
+                  "Path": "dir90"
+                },
+                {
+                  "Count": 2,
+                  "TotalDuration": 2530,
+                  "MinDuration": 1250,
+                  "AverageDuration": 1265,
+                  "MaxDuration": 1280,
+                  "MedianDuration": 1265,
+                  "Path": "dir91"
+                }
+              ]
+            },
+            {
+              "Count": 6,
+              "TotalDuration": 6640,
+              "MinDuration": 822,
+              "AverageDuration": 1106,
+              "MaxDuration": 1791,
+              "MedianDuration": 948,
+              "Path": "dir92",
+              "Folder": [
+                {
+                  "Count": 6,
+                  "TotalDuration": 6640,
+                  "MinDuration": 822,
+                  "AverageDuration": 1106,
+                  "MaxDuration": 1791,
+                  "MedianDuration": 948,
+                  "Path": "dir93"
+                }
+              ]
+            },
+            {
+              "Count": 3,
+              "TotalDuration": 4736,
+              "MinDuration": 935,
+              "AverageDuration": 1578,
+              "MaxDuration": 2360,
+              "MedianDuration": 1441,
+              "Path": "dir94",
+              "Folder": [
+                {
+                  "Count": 3,
+                  "TotalDuration": 4736,
+                  "MinDuration": 935,
+                  "AverageDuration": 1578,
+                  "MaxDuration": 2360,
+                  "MedianDuration": 1441,
+                  "Path": "dir95"
+                }
+              ]
+            },
+            {
+              "Count": 2,
+              "TotalDuration": 3467,
+              "MinDuration": 1610,
+              "AverageDuration": 1733,
+              "MaxDuration": 1857,
+              "MedianDuration": 1733,
+              "Path": "dir96",
+              "Folder": [
+                {
+                  "Count": 2,
+                  "TotalDuration": 3467,
+                  "MinDuration": 1610,
+                  "AverageDuration": 1733,
+                  "MaxDuration": 1857,
+                  "MedianDuration": 1733,
+                  "Path": "dir97"
+                }
+              ]
+            },
+            {
+              "Count": 3,
+              "TotalDuration": 2536,
+              "MinDuration": 792,
+              "AverageDuration": 845,
+              "MaxDuration": 891,
+              "MedianDuration": 853,
+              "Path": "dir98",
+              "Folder": [
+                {
+                  "Count": 1,
+                  "TotalDuration": 891,
+                  "MinDuration": 891,
+                  "AverageDuration": 891,
+                  "MaxDuration": 891,
+                  "MedianDuration": 891,
+                  "Path": "E:\\dir70\\dir98\\file145.txt"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 853,
+                  "MinDuration": 853,
+                  "AverageDuration": 853,
+                  "MaxDuration": 853,
+                  "MedianDuration": 853,
+                  "Path": "E:\\dir70\\dir98\\file146.py"
+                },
+                {
+                  "Count": 1,
+                  "TotalDuration": 792,
+                  "MinDuration": 792,
+                  "AverageDuration": 792,
+                  "MaxDuration": 792,
+                  "MedianDuration": 792,
+                  "Path": "E:\\dir70\\dir98\\file147.py"
+                }
+              ]
+            },
+            {
+              "Count": 2,
+              "TotalDuration": 1901,
+              "MinDuration": 707,
+              "AverageDuration": 950,
+              "MaxDuration": 1194,
+              "MedianDuration": 950,
+              "Path": "dir99",
+              "Folder": [
+                {
+                  "Count": 2,
+                  "TotalDuration": 1901,
+                  "MinDuration": 707,
+                  "AverageDuration": 950,
+                  "MaxDuration": 1194,
+                  "MedianDuration": 950,
+                  "Path": "dir100"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Count": 1,
+          "TotalDuration": 98675,
+          "MinDuration": 98675,
+          "AverageDuration": 98675,
+          "MaxDuration": 98675,
+          "MedianDuration": 98675,
+          "Path": "dir101"
+        },
+        {
+          "Count": 15,
+          "TotalDuration": 20121,
+          "MinDuration": 706,
+          "AverageDuration": 1341,
+          "MaxDuration": 2157,
+          "MedianDuration": 1162,
+          "Path": "misc",
+          "Folder": [
+            {
+              "Count": 9,
+              "TotalDuration": 13015,
+              "MinDuration": 886,
+              "AverageDuration": 1446,
+              "MaxDuration": 2157,
+              "MedianDuration": 1501,
+              "Path": "dir102",
+              "Folder": [
+                {
+                  "Count": 9,
+                  "TotalDuration": 13015,
+                  "MinDuration": 886,
+                  "AverageDuration": 1446,
+                  "MaxDuration": 2157,
+                  "MedianDuration": 1501,
+                  "Path": "dir103"
+                }
+              ]
+            },
+            {
+              "Count": 3,
+              "TotalDuration": 3568,
+              "MinDuration": 706,
+              "AverageDuration": 1189,
+              "MaxDuration": 1949,
+              "MedianDuration": 913,
+              "Path": "dir104",
+              "Folder": [
+                {
+                  "Count": 3,
+                  "TotalDuration": 3568,
+                  "MinDuration": 706,
+                  "AverageDuration": 1189,
+                  "MaxDuration": 1949,
+                  "MedianDuration": 913,
+                  "Path": "dir105"
+                }
+              ]
+            },
+            {
+              "Count": 3,
+              "TotalDuration": 3538,
+              "MinDuration": 1112,
+              "AverageDuration": 1179,
+              "MaxDuration": 1264,
+              "MedianDuration": 1162,
+              "Path": "dir106",
+              "Folder": [
+                {
+                  "Count": 3,
+                  "TotalDuration": 3538,
+                  "MinDuration": 1112,
+                  "AverageDuration": 1179,
+                  "MaxDuration": 1264,
+                  "MedianDuration": 1162,
+                  "Path": "dir107"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 249401,
+      "MinDuration": 249401,
+      "AverageDuration": 249401,
+      "MaxDuration": 249401,
+      "MedianDuration": 249401,
+      "Path": "MemScanVfz-AMSI-13AA75D2-42F1-CEC6-347A-FF10685EF12F"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 217110,
+      "MinDuration": 217110,
+      "AverageDuration": 217110,
+      "MaxDuration": 217110,
+      "MedianDuration": 217110,
+      "Path": "MemScanVfz-AMSI-81CC494D-15BA-9BEE-6327-82B5E79A9DD7"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 207410,
+      "MinDuration": 207410,
+      "AverageDuration": 207410,
+      "MaxDuration": 207410,
+      "MedianDuration": 207410,
+      "Path": "MemScanVfz-AMSI-FD1D70A1-E534-C3D3-D8C6-DE5811299365"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 203924,
+      "MinDuration": 203924,
+      "AverageDuration": 203924,
+      "MaxDuration": 203924,
+      "MedianDuration": 203924,
+      "Path": "MemScanVfz-AMSI-BBDC04DA-CC0C-4443-9A0A-ABDE2F9463CF"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 202754,
+      "MinDuration": 202754,
+      "AverageDuration": 202754,
+      "MaxDuration": 202754,
+      "MedianDuration": 202754,
+      "Path": "MemScanVfz-AMSI-1A725F59-BF0B-2058-A528-4A9B056E03FA"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 190999,
+      "MinDuration": 190999,
+      "AverageDuration": 190999,
+      "MaxDuration": 190999,
+      "MedianDuration": 190999,
+      "Path": "MemScanVfz-AMSI-B053F124-0FF8-8DB0-E533-68F92A90CD30"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 173785,
+      "MinDuration": 173785,
+      "AverageDuration": 173785,
+      "MaxDuration": 173785,
+      "MedianDuration": 173785,
+      "Path": "MemScanVfz-AMSI-E524B926-123F-63C3-1921-EA0E55C19DA1"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 172240,
+      "MinDuration": 172240,
+      "AverageDuration": 172240,
+      "MaxDuration": 172240,
+      "MedianDuration": 172240,
+      "Path": "MemScanVfz-AMSI-C4F2E3EF-ED2A-5105-57D7-359CAD7257A1"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 172053,
+      "MinDuration": 172053,
+      "AverageDuration": 172053,
+      "MaxDuration": 172053,
+      "MedianDuration": 172053,
+      "Path": "MemScanVfz-AMSI-540F16A1-B6D5-D0CF-01DC-432B26E74D5A"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 166478,
+      "MinDuration": 166478,
+      "AverageDuration": 166478,
+      "MaxDuration": 166478,
+      "MedianDuration": 166478,
+      "Path": "MemScanVfz-AMSI-02E7C6CA-8E45-763D-A4A2-DECB89F89752"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 156902,
+      "MinDuration": 156902,
+      "AverageDuration": 156902,
+      "MaxDuration": 156902,
+      "MedianDuration": 156902,
+      "Path": "MemScanVfz-AMSI-7928FBE7-C484-C31E-03B9-033ADD9CF9B1"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 10354,
+      "MinDuration": 10354,
+      "AverageDuration": 10354,
+      "MaxDuration": 10354,
+      "MedianDuration": 10354,
+      "Path": "MemScanVfz-AMSI-1152E9DD-1E6F-119E-9F4E-07966D76D637"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 4782,
+      "MinDuration": 4782,
+      "AverageDuration": 4782,
+      "MaxDuration": 4782,
+      "MedianDuration": 4782,
+      "Path": "MemScanVfz-AMSI-6FD0B6AE-EE9A-4564-15D4-1B345B3F1116"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 4381,
+      "MinDuration": 4381,
+      "AverageDuration": 4381,
+      "MaxDuration": 4381,
+      "MedianDuration": 4381,
+      "Path": "MemScanVfz-AMSI-18FAD241-2155-D15C-418D-B3A104259145"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 3767,
+      "MinDuration": 3767,
+      "AverageDuration": 3767,
+      "MaxDuration": 3767,
+      "MedianDuration": 3767,
+      "Path": "MemScanVfz-AMSI-90E3C511-5054-AEC6-BD0B-C95F030CF65B"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 3536,
+      "MinDuration": 3536,
+      "AverageDuration": 3536,
+      "MaxDuration": 3536,
+      "MedianDuration": 3536,
+      "Path": "MemScanVfz-AMSI-EB1FF4DA-E046-57AD-5635-B9B247F79483"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2885,
+      "MinDuration": 2885,
+      "AverageDuration": 2885,
+      "MaxDuration": 2885,
+      "MedianDuration": 2885,
+      "Path": "MemScanVfz-AMSI-6011DB98-A5BF-8344-B830-6F7BEBA1981D"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2870,
+      "MinDuration": 2870,
+      "AverageDuration": 2870,
+      "MaxDuration": 2870,
+      "MedianDuration": 2870,
+      "Path": "MemScanVfz-AMSI-7522E311-5745-0BE1-2778-22BFA8645915"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2764,
+      "MinDuration": 2764,
+      "AverageDuration": 2764,
+      "MaxDuration": 2764,
+      "MedianDuration": 2764,
+      "Path": "MemScanVfz-AMSI-BECF5758-B63E-1C42-4BC0-AD6C5AFDB871"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2556,
+      "MinDuration": 2556,
+      "AverageDuration": 2556,
+      "MaxDuration": 2556,
+      "MedianDuration": 2556,
+      "Path": "MemScanVfz-AMSI-BF8967A1-A6B8-8BCA-5AF0-87BA309CCB0B"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2482,
+      "MinDuration": 2482,
+      "AverageDuration": 2482,
+      "MaxDuration": 2482,
+      "MedianDuration": 2482,
+      "Path": "MemScanVfz-AMSI-87C7CA49-368A-7676-0C21-E43ACEDA5D60"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2411,
+      "MinDuration": 2411,
+      "AverageDuration": 2411,
+      "MaxDuration": 2411,
+      "MedianDuration": 2411,
+      "Path": "MemScanVfz-AMSI-1D2A781C-1966-BA25-9D06-2A78027260E7"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2405,
+      "MinDuration": 2405,
+      "AverageDuration": 2405,
+      "MaxDuration": 2405,
+      "MedianDuration": 2405,
+      "Path": "MemScanVfz-AMSI-7165C5B7-BCDB-7A1F-C396-766B2B4F96F1"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2336,
+      "MinDuration": 2336,
+      "AverageDuration": 2336,
+      "MaxDuration": 2336,
+      "MedianDuration": 2336,
+      "Path": "MemScanVfz-AMSI-C4799DE1-CF5E-02F1-5CF4-AC1466301BFA"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2304,
+      "MinDuration": 2304,
+      "AverageDuration": 2304,
+      "MaxDuration": 2304,
+      "MedianDuration": 2304,
+      "Path": "MemScanVfz-AMSI-A70CCBF0-26AC-95C5-4CFB-446C5808B76B"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2218,
+      "MinDuration": 2218,
+      "AverageDuration": 2218,
+      "MaxDuration": 2218,
+      "MedianDuration": 2218,
+      "Path": "MemScanVfz-AMSI-20097D19-7A89-AB58-8DF5-1808B49A9880"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2208,
+      "MinDuration": 2208,
+      "AverageDuration": 2208,
+      "MaxDuration": 2208,
+      "MedianDuration": 2208,
+      "Path": "MemScanVfz-AMSI-72B1CBD4-99E1-B840-E881-7465246E8B33"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2208,
+      "MinDuration": 2208,
+      "AverageDuration": 2208,
+      "MaxDuration": 2208,
+      "MedianDuration": 2208,
+      "Path": "MemScanVfz-AMSI-5DF57577-A9C1-DF6B-081E-736AB0F3C9B1"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2189,
+      "MinDuration": 2189,
+      "AverageDuration": 2189,
+      "MaxDuration": 2189,
+      "MedianDuration": 2189,
+      "Path": "MemScanVfz-AMSI-BAC7B540-BB85-A7D6-0925-5E61DDF28FDF"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2186,
+      "MinDuration": 2186,
+      "AverageDuration": 2186,
+      "MaxDuration": 2186,
+      "MedianDuration": 2186,
+      "Path": "MemScanVfz-AMSI-ED9803EE-19F8-53B6-D153-F47A9777BB14"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2157,
+      "MinDuration": 2157,
+      "AverageDuration": 2157,
+      "MaxDuration": 2157,
+      "MedianDuration": 2157,
+      "Path": "MemScanVfz-AMSI-EF2852A2-73C2-9749-595E-7D6AF6BF1E0C"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2119,
+      "MinDuration": 2119,
+      "AverageDuration": 2119,
+      "MaxDuration": 2119,
+      "MedianDuration": 2119,
+      "Path": "MemScanVfz-AMSI-E1B1A0D2-BEB2-5D70-82B1-E57D2210443E"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2102,
+      "MinDuration": 2102,
+      "AverageDuration": 2102,
+      "MaxDuration": 2102,
+      "MedianDuration": 2102,
+      "Path": "MemScanVfz-AMSI-D6E8EF15-D3A3-D59A-E08E-A820D8410BC2"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 2038,
+      "MinDuration": 2038,
+      "AverageDuration": 2038,
+      "MaxDuration": 2038,
+      "MedianDuration": 2038,
+      "Path": "MemScanVfz-AMSI-AF12F749-CD93-1956-5D46-6374A06CAB0C"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 1988,
+      "MinDuration": 1988,
+      "AverageDuration": 1988,
+      "MaxDuration": 1988,
+      "MedianDuration": 1988,
+      "Path": "MemScanVfz-AMSI-0B1193AE-8CE8-AE34-2BAD-63E8623D0843"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 1953,
+      "MinDuration": 1953,
+      "AverageDuration": 1953,
+      "MaxDuration": 1953,
+      "MedianDuration": 1953,
+      "Path": "MemScanVfz-AMSI-C46AE240-7237-F8FF-F791-3AF3E3BCA091"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 1938,
+      "MinDuration": 1938,
+      "AverageDuration": 1938,
+      "MaxDuration": 1938,
+      "MedianDuration": 1938,
+      "Path": "MemScanVfz-AMSI-72F06DA3-1E27-8591-61D5-D611D1332D20"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 1923,
+      "MinDuration": 1923,
+      "AverageDuration": 1923,
+      "MaxDuration": 1923,
+      "MedianDuration": 1923,
+      "Path": "MemScanVfz-AMSI-9BDC8E62-9055-760F-53C5-3950F93BECC7"
+    }
+  ],
+  "TopExtensions": [
+    {
+      "Count": 11102,
+      "TotalDuration": 60566790,
+      "MinDuration": 627,
+      "AverageDuration": 5455,
+      "MaxDuration": 138812,
+      "MedianDuration": 4900,
+      "Extension": ".pyc"
+    },
+    {
+      "Count": 94,
+      "TotalDuration": 55055080,
+      "MinDuration": 74023,
+      "AverageDuration": 585692,
+      "MaxDuration": 2638615,
+      "MedianDuration": 113847,
+      "Extension": ".jsonl"
+    },
+    {
+      "Count": 319,
+      "TotalDuration": 11985799,
+      "MinDuration": 797,
+      "AverageDuration": 37573,
+      "MaxDuration": 249401,
+      "MedianDuration": 5248,
+      "Extension": ""
+    },
+    {
+      "Count": 753,
+      "TotalDuration": 6285286,
+      "MinDuration": 3938,
+      "AverageDuration": 8346,
+      "MaxDuration": 66913,
+      "MedianDuration": 7414,
+      "Extension": ".db"
+    },
+    {
+      "Count": 89,
+      "TotalDuration": 5609215,
+      "MinDuration": 13102,
+      "AverageDuration": 63024,
+      "MaxDuration": 101964,
+      "MedianDuration": 62131,
+      "Extension": ".PNF"
+    },
+    {
+      "Count": 161,
+      "TotalDuration": 4927875,
+      "MinDuration": 740,
+      "AverageDuration": 30607,
+      "MaxDuration": 275207,
+      "MedianDuration": 6890,
+      "Extension": ".tmp"
+    },
+    {
+      "Count": 46,
+      "TotalDuration": 4238608,
+      "MinDuration": 51884,
+      "AverageDuration": 92143,
+      "MaxDuration": 179588,
+      "MedianDuration": 83723,
+      "Extension": ".output"
+    },
+    {
+      "Count": 110,
+      "TotalDuration": 3350681,
+      "MinDuration": 1360,
+      "AverageDuration": 30460,
+      "MaxDuration": 175138,
+      "MedianDuration": 7436,
+      "Extension": ".log"
+    },
+    {
+      "Count": 1799,
+      "TotalDuration": 2755271,
+      "MinDuration": 766,
+      "AverageDuration": 1531,
+      "MaxDuration": 41290,
+      "MedianDuration": 1115,
+      "Extension": ".pckgdep"
+    },
+    {
+      "Count": 250,
+      "TotalDuration": 2590311,
+      "MinDuration": 626,
+      "AverageDuration": 10361,
+      "MaxDuration": 129813,
+      "MedianDuration": 5917,
+      "Extension": ".json"
+    },
+    {
+      "Count": 196,
+      "TotalDuration": 2104435,
+      "MinDuration": 896,
+      "AverageDuration": 10736,
+      "MaxDuration": 89808,
+      "MedianDuration": 6552,
+      "Extension": ".pf"
+    },
+    {
+      "Count": 19,
+      "TotalDuration": 1943878,
+      "MinDuration": 18508,
+      "AverageDuration": 102309,
+      "MaxDuration": 226891,
+      "MedianDuration": 120411,
+      "Extension": ".ps1"
+    },
+    {
+      "Count": 138,
+      "TotalDuration": 1858884,
+      "MinDuration": 615,
+      "AverageDuration": 13470,
+      "MaxDuration": 188964,
+      "MedianDuration": 915,
+      "Extension": ".py"
+    },
+    {
+      "Count": 24,
+      "TotalDuration": 1316045,
+      "MinDuration": 2877,
+      "AverageDuration": 54835,
+      "MaxDuration": 137211,
+      "MedianDuration": 51548,
+      "Extension": ".psm1"
+    },
+    {
+      "Count": 122,
+      "TotalDuration": 856696,
+      "MinDuration": 3701,
+      "AverageDuration": 7022,
+      "MaxDuration": 32702,
+      "MedianDuration": 6034,
+      "Extension": ".js"
+    },
+    {
+      "Count": 11,
+      "TotalDuration": 606772,
+      "MinDuration": 7960,
+      "AverageDuration": 55161,
+      "MaxDuration": 115468,
+      "MedianDuration": 61066,
+      "Extension": ".ini"
+    },
+    {
+      "Count": 71,
+      "TotalDuration": 508993,
+      "MinDuration": 4185,
+      "AverageDuration": 7168,
+      "MaxDuration": 43269,
+      "MedianDuration": 6162,
+      "Extension": ".zstd"
+    },
+    {
+      "Count": 1,
+      "TotalDuration": 415554,
+      "MinDuration": 415554,
+      "AverageDuration": 415554,
+      "MaxDuration": 415554,
+      "MedianDuration": 415554,
+      "Extension": ".933846107"
+    },
+    {
+      "Count": 4,
+      "TotalDuration": 381158,
+      "MinDuration": 72712,
+      "AverageDuration": 95289,
+      "MaxDuration": 105904,
+      "MedianDuration": 101271,
+      "Extension": ".1793505894"
+    },
+    {
+      "Count": 54,
+      "TotalDuration": 324590,
+      "MinDuration": 3478,
+      "AverageDuration": 6010,
+      "MaxDuration": 22603,
+      "MedianDuration": 5311,
+      "Extension": ".node"
+    }
+  ],
+  "TopProcesses": [
+    {
+      "Count": 11239,
+      "TotalDuration": 63897818,
+      "MinDuration": 626,
+      "AverageDuration": 5685,
+      "MaxDuration": 188964,
+      "MedianDuration": 4900,
+      "ProcessPath": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python314\\python.exe"
+    },
+    {
+      "Count": 66,
+      "TotalDuration": 41112272,
+      "MinDuration": 707,
+      "AverageDuration": 622913,
+      "MaxDuration": 2638615,
+      "MedianDuration": 113631,
+      "ProcessPath": "C:\\Users\\user\\dir108\\bin\\file148.exe"
+    },
+    {
+      "Count": 20,
+      "TotalDuration": 12915269,
+      "MinDuration": 75887,
+      "AverageDuration": 645763,
+      "MaxDuration": 2251411,
+      "MedianDuration": 136182,
+      "ProcessPath": "C:\\Users\\user\\AppData\\Roaming\\dir109\\dir52\\dir110\\dir111\\dir52\\dir110\\dir112\\dir113\\dir114\\bin\\file149.exe"
+    },
+    {
+      "Count": 838,
+      "TotalDuration": 11556727,
+      "MinDuration": 3938,
+      "AverageDuration": 13790,
+      "MaxDuration": 101964,
+      "MedianDuration": 7772,
+      "ProcessPath": "C:\\Program Files\\WindowsApps\\dir115\\dir116\\file150.exe"
+    },
+    {
+      "Count": 89,
+      "TotalDuration": 7785881,
+      "MinDuration": 10627,
+      "AverageDuration": 87481,
+      "MaxDuration": 148791,
+      "MedianDuration": 85415,
+      "ProcessPath": "C:\\Program Files\\dir117\\dir118\\file151.20\\file152.exe"
+    },
+    {
+      "Count": 88,
+      "TotalDuration": 7034639,
+      "MinDuration": 9067,
+      "AverageDuration": 79939,
+      "MaxDuration": 132442,
+      "MedianDuration": 81522,
+      "ProcessPath": "C:\\Users\\user\\AppData\\Local\\Programs\\dir119\\file153.exe"
+    },
+    {
+      "Count": 52,
+      "TotalDuration": 4892162,
+      "MinDuration": 883,
+      "AverageDuration": 94080,
+      "MaxDuration": 226891,
+      "MedianDuration": 96697,
+      "ProcessPath": "C:\\Program Files\\PowerShell\\7\\pwsh.exe"
+    },
+    {
+      "Count": 639,
+      "TotalDuration": 4255488,
+      "MinDuration": 740,
+      "AverageDuration": 6659,
+      "MaxDuration": 43269,
+      "MedianDuration": 5958,
+      "ProcessPath": "C:\\Program Files\\nodejs\\node.exe"
+    },
+    {
+      "Count": 1872,
+      "TotalDuration": 3128229,
+      "MinDuration": 766,
+      "AverageDuration": 1671,
+      "MaxDuration": 41290,
+      "MedianDuration": 1126,
+      "ProcessPath": "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+      "Count": 32,
+      "TotalDuration": 3030710,
+      "MinDuration": 902,
+      "AverageDuration": 94709,
+      "MaxDuration": 135611,
+      "MedianDuration": 98618,
+      "ProcessPath": "C:\\Users\\user\\dir18\\bin\\file154.exe"
+    },
+    {
+      "Count": 27,
+      "TotalDuration": 2344059,
+      "MinDuration": 6643,
+      "AverageDuration": 86817,
+      "MaxDuration": 179588,
+      "MedianDuration": 89190,
+      "ProcessPath": "C:\\Program Files\\Git\\bin\\bash.exe"
+    },
+    {
+      "Count": 35,
+      "TotalDuration": 2161102,
+      "MinDuration": 1129,
+      "AverageDuration": 61745,
+      "MaxDuration": 249401,
+      "MedianDuration": 2208,
+      "ProcessPath": "dir120\\Program Files\\PowerShell\\7\\dir121"
+    },
+    {
+      "Count": 22,
+      "TotalDuration": 1688174,
+      "MinDuration": 9192,
+      "AverageDuration": 76735,
+      "MaxDuration": 131625,
+      "MedianDuration": 77015,
+      "ProcessPath": "C:\\Program Files\\dir122\\dir123\\file155.exe"
+    },
+    {
+      "Count": 11,
+      "TotalDuration": 1584762,
+      "MinDuration": 13770,
+      "AverageDuration": 144069,
+      "MaxDuration": 415554,
+      "MedianDuration": 119922,
+      "ProcessPath": "C:\\Users\\user\\AppData\\Local\\Programs\\dir124\\bin\\file156.exe"
+    },
+    {
+      "Count": 53,
+      "TotalDuration": 1504815,
+      "MinDuration": 1607,
+      "AverageDuration": 28392,
+      "MaxDuration": 100355,
+      "MedianDuration": 10788,
+      "ProcessPath": "C:\\Program Files\\Git\\usr\\bin\\bash.exe"
+    },
+    {
+      "Count": 8,
+      "TotalDuration": 973778,
+      "MinDuration": 85343,
+      "AverageDuration": 121722,
+      "MaxDuration": 142271,
+      "MedianDuration": 125898,
+      "ProcessPath": "C:\\Program Files (x86)\\dir27\\dir125\\dir126\\dir30\\file157.exe"
+    },
+    {
+      "Count": 16,
+      "TotalDuration": 941486,
+      "MinDuration": 7515,
+      "AverageDuration": 58842,
+      "MaxDuration": 103481,
+      "MedianDuration": 82035,
+      "ProcessPath": "C:\\Windows\\System32\\ctfmon.exe"
+    },
+    {
+      "Count": 32,
+      "TotalDuration": 742173,
+      "MinDuration": 678,
+      "AverageDuration": 23192,
+      "MaxDuration": 104658,
+      "MedianDuration": 3002,
+      "ProcessPath": "E:\\dir127\\dir128\\dir129\\file158.436581\\file159.exe"
+    },
+    {
+      "Count": 7,
+      "TotalDuration": 643902,
+      "MinDuration": 74028,
+      "AverageDuration": 91986,
+      "MaxDuration": 117982,
+      "MedianDuration": 91530,
+      "ProcessPath": "C:\\Users\\user\\AppData\\Local\\Programs\\dir130\\file160.exe"
+    },
+    {
+      "Count": 10,
+      "TotalDuration": 631727,
+      "MinDuration": 846,
+      "AverageDuration": 63172,
+      "MaxDuration": 147078,
+      "MedianDuration": 68842,
+      "ProcessPath": "C:\\Program Files\\Git\\usr\\bin\\head.exe"
+    },
+    {
+      "Count": 31,
+      "TotalDuration": 440332,
+      "MinDuration": 5097,
+      "AverageDuration": 14204,
+      "MaxDuration": 75313,
+      "MedianDuration": 7393,
+      "ProcessPath": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "Count": 40,
+      "TotalDuration": 398452,
+      "MinDuration": 4496,
+      "AverageDuration": 9961,
+      "MaxDuration": 75498,
+      "MedianDuration": 7025,
+      "ProcessPath": "C:\\Python27\\python.exe"
+    },
+    {
+      "Count": 4,
+      "TotalDuration": 376595,
+      "MinDuration": 67698,
+      "AverageDuration": 94148,
+      "MaxDuration": 117247,
+      "MedianDuration": 95825,
+      "ProcessPath": "C:\\Program Files\\dir27\\dir131\\file161.exe"
+    },
+    {
+      "Count": 2,
+      "TotalDuration": 373882,
+      "MinDuration": 98675,
+      "AverageDuration": 186941,
+      "MaxDuration": 275207,
+      "MedianDuration": 186941,
+      "ProcessPath": "C:\\Program Files\\dir122\\dir132\\file162.exe"
+    },
+    {
+      "Count": 28,
+      "TotalDuration": 344092,
+      "MinDuration": 897,
+      "AverageDuration": 12289,
+      "MaxDuration": 36289,
+      "MedianDuration": 11227,
+      "ProcessPath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    }
+  ]
+}

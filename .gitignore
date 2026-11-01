@@ -1,0 +1,9 @@
+/node_modules/
+/src-tauri/target/
+/src-tauri/gen/schemas/
+/dist/
+/.tools/
+/data/
+/tests/.tmp/
+*.log
+*.etl

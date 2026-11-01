@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Defender Watch</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="defender-core.js" defer></script>
+  <script src="cpu-chart.js" defer></script>
+  <script src="refresh-scheduler.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header>
+    <div>
+      <div class="eyebrow">PORTABLE / LOCAL / ELEVATED ONLY WHEN NEEDED</div>
+      <h1>Defender Watch<span class="mark">.</span></h1>
+      <p>See which paths, processes and file types keep Microsoft Defender busy.</p>
+    </div>
+    <div class="header-side">
+      <div id="collector-status" class="status-pill" role="status">Starting…</div>
+      <div id="header-cpu" class="header-cpu">MsMpEng <strong>—</strong></div>
+      <div id="header-window" class="header-sub">No recording window yet</div>
+      <div class="header-actions">
+        <button id="start-collector" type="button">Start collector</button>
+        <button id="stop-collector" type="button">Stop collector</button>
+        <button id="record-now" class="primary" type="button">Record now</button>
+      </div>
+    </div>
+  </header>
+  <main>
+    <div id="error" class="error" role="alert" hidden></div>
+    <div id="rtp-warning" class="error" role="alert" hidden></div>
+    <div id="notice" class="notice" role="status" hidden></div>
+    <section class="stats" aria-label="Current status">
+      <article><div>MsMpEng CPU now</div><strong id="stat-cpu">—</strong><small id="stat-cpu-note">% of total CPU</small></article>
+      <article><div>Average over the selected interval</div><strong id="stat-average">—</strong><small id="stat-average-note">Waiting for CPU samples</small></article>
+      <article><div>Latest recording window</div><strong id="stat-window">—</strong><small id="stat-window-note">No windows in the data folder</small></article>
+      <article><div>Collector</div><strong id="stat-collector">—</strong><small id="stat-collector-note">Elevation is separate from this window</small></article>
+    </section>
+    <section class="panel interval" aria-label="Statistics interval">
+      <div class="section-heading">
+        <div><h2>Interval</h2><p id="interval-caption" class="note">Latest recording window</p></div>
+        <span id="interval-state">Last window</span>
+      </div>
+      <div class="interval-presets" id="interval-presets">
+        <button type="button" data-interval="last" class="selected">Last window</button>
+        <button type="button" data-interval="15">15 min</button>
+        <button type="button" data-interval="60">1 h</button>
+        <button type="button" data-interval="360">6 h</button>
+        <button type="button" data-interval="1440">24 h</button>
+        <button type="button" data-interval="10080">7 d</button>
+      </div>
+      <p class="note">All windows that overlap this interval are combined. CPU samples come from the elevated collector's 5-second sampler. The chart's shaded bands mark recordings.</p>
+    </section>
+    <section class="panel trends" aria-label="MsMpEng CPU trend">
+      <div class="section-heading">
+        <div><h2>MsMpEng CPU trend</h2><p id="trend-caption" class="note">Waiting for data</p></div>
+        <span id="trend-scale">% of total CPU</span>
+      </div>
+      <svg id="cpu-chart" viewBox="0 0 1000 280" role="img" tabindex="0" aria-label="MsMpEng CPU trend"></svg>
+      <p id="trend-reading" class="chart-reading" role="status">Waiting for CPU samples.</p>
+    </section>
+    <section class="panel hot-paths" aria-label="Hot paths">
+      <div class="section-heading hot-heading">
+        <div><h2>Hot paths</h2><p class="note">Leaf paths from Defender's performance report, rolled up to the selected depth. AMSI memory scans are grouped into one row.</p></div>
+        <div class="table-controls">
+          <label>Depth
+            <select id="path-depth" aria-label="Path roll-up depth">
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+            </select>
+          </label>
+          <label class="check"><input id="only-excluded" type="checkbox" checked>Only not excluded</label>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Path</th><th class="num">Scan seconds</th><th class="num">Scans</th><th class="num">Share of scan time</th><th class="num">Seconds / recorded minute</th><th>Excluded</th><th>Action</th></tr></thead>
+          <tbody id="path-rows"></tbody>
+        </table>
+      </div>
+      <p id="path-summary" class="table-summary">Waiting for a recording window.</p>
+    </section>
+    <section class="panel top-lists" aria-label="Top processes, extensions and files">
+      <div class="section-heading">
+        <div><h2>Top activity</h2><p class="note">Aggregated across the selected interval. Exclusions are matched case-insensitively and follow Windows directory boundaries.</p></div>
+        <div class="tabs" role="tablist" aria-label="Top activity lists">
+          <button type="button" role="tab" data-tab="processes" aria-selected="true" class="selected">Processes</button>
+          <button type="button" role="tab" data-tab="extensions" aria-selected="false">Extensions</button>
+          <button type="button" role="tab" data-tab="files" aria-selected="false">Files</button>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead id="top-head"></thead>
+          <tbody id="top-rows"></tbody>
+        </table>
+      </div>
+      <p id="top-summary" class="table-summary">No activity yet.</p>
+      <p id="exclusion-summary" class="table-summary">Exclusions are loaded from exclusions.json each collector cycle.</p>
+    </section>
+    <section class="panel settings">
+      <div class="section-heading">
+        <div><h2>Settings</h2><p class="note">Saved to settings.json in the portable data folder. The elevated collector reads these on its next cycle.</p></div>
+        <span>MsMpEng sampler: every 5 seconds</span>
+      </div>
+      <form id="settings-form">
+        <label>Record seconds <span class="hint">15–300</span><input id="record-seconds" type="number" min="15" max="300" step="1" required></label>
+        <label>Pause seconds <span class="hint">0–3600</span><input id="pause-seconds" type="number" min="0" max="3600" step="1" required></label>
+        <label>Retention days <span class="hint">1–90</span><input id="retention-days" type="number" min="1" max="90" step="1" required></label>
+        <label class="check"><input id="auto-start" type="checkbox">Start collector when the app starts</label>
+        <label class="check wide"><input id="alert-enabled" type="checkbox">Desktop alert when average CPU stays high</label>
+        <label>Alert threshold <span class="hint">% of total CPU</span><input id="alert-threshold" type="number" min="1" max="100" step="0.5" required></label>
+        <label>Alert duration <span class="hint">minutes</span><input id="alert-minutes" type="number" min="1" max="120" step="1" required></label>
+        <div class="actions">
+          <button type="submit" class="primary">Save settings</button>
+          <button type="button" id="test-alert">Test desktop alert</button>
+          <button type="button" id="open-data">Open data folder</button>
+          <span id="feedback" role="status"></span>
+        </div>
+      </form>
+      <p class="note">Starting the collector opens one Windows UAC prompt per app session. The collector is elevated; this UI is not. The app never adds or changes a Defender exclusion. It only copies a command for you to review and run yourself.</p>
+    </section>
+    <footer>
+      <span id="data-folder">Data folder: —</span>
+      <span>Local only · No network code · No telemetry</span>
+    </footer>
+  </main>
+</body>
+</html>

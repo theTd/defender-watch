@@ -1,0 +1,19 @@
+{
+  "name": "defender-watch",
+  "version": "0.1.0",
+  "description": "Portable Windows tray monitor for Microsoft Defender scan CPU hotspots.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "tauri dev",
+    "build": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-portable.ps1",
+    "test": "node --test tests/core.test.cjs tests/cpu-chart.test.cjs tests/collector-convert.test.cjs",
+    "verify": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/verify.ps1"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.11.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

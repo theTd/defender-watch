@@ -1,0 +1,34 @@
+{
+  "Extension": [
+    ".etl"
+  ],
+  "Process": [
+    "PerfView.exe",
+    "wpr.exe"
+  ],
+  "Path": [
+    "C:\\Program Files\\dir133\\dir134\\dir135",
+    "C:\\Users\\user\\dir136",
+    "C:\\Users\\user\\dir137",
+    "C:\\Users\\user\\AppData\\Local\\dir133\\file163.1",
+    "C:\\Users\\user\\AppData\\Local\\dir133\\file164.3",
+    "C:\\Users\\user\\AppData\\Local\\dir133\\file165.1",
+    "C:\\Users\\user\\AppData\\Local\\dir133\\file166.3",
+    "C:\\Users\\user\\AppData\\Local\\Temp\\dir138",
+    "C:\\Users\\user\\dir139",
+    "C:\\Users\\user\\dir140\\dir141",
+    "C:\\Users\\user\\dir142\\dir143",
+    "C:\\Users\\user\\dir142\\dir144",
+    "C:\\Users\\user\\dir142\\dir145",
+    "D:\\dir146",
+    "E:\\dir136",
+    "E:\\dir139",
+    "E:\\dir70",
+    "E:\\dir127\\dir147\\file167.com\\dir148\\dir149\\dir150",
+    "E:\\dir127\\dir147\\file167.com\\dir148\\dir149\\dir151\\dir152",
+    "E:\\dir127\\dir147\\file167.com\\dir148\\dir149\\dir153\\dir154\\dir155",
+    "E:\\dir127\\dir147\\file167.com\\dir148\\dir149\\dir156",
+    "E:\\dir127\\dir147\\file167.com\\dir148\\dir149\\dir156\\dir157",
+    "E:\\misc"
+  ]
+}
